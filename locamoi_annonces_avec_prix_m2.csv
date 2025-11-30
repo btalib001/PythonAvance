@@ -1,801 +1,401 @@
 titre,prix,surface,pieces,adresse,type_bien,prix au m²
-1 chambre appartement de 11m² à Paris,412,11,1,"4 Square Auguste Renoir, 75014 Paris, France",appartement,37
-1 chambre appartement de 31m² à Paris,690,31,1,"92110 Clichy, France",appartement,22
-2 chambres appartement de 20m² à Paris,750,20,2,"Paris, France",appartement,38
-1 chambre appartement de 26m² à Paris,932,26,1,"Paris, France",appartement,36
-1 chambre appartement de 16m² à Paris,585,16,1,"25 Rue du Chemin Vert, 75011 Paris, France",appartement,37
-3 chambres appartement de 78m² à Paris,570,78,3,"10 Rue du Cloître Notre-Dame, 75004 Paris, France",appartement,7
-1 chambre studio de 8m² à Paris,477,8,1,"75013 Paris, France",studio,60
-1 chambre studio de 10m² à Paris,100,10,1,"Paris, France",studio,10
-5 chambres appartement de 81m² à Paris,665,81,5,"Route d'Arras, 62320 Bois-Bernard, France",appartement,8
-1 chambre appartement de 18m² à Paris,350,18,1,"62110 Hénin-Beaumont, France",appartement,19
-5 chambres maison de 125m² à Paris,750,125,5,"Rue Marie de France, 75001 Paris, France",maison,6
-1 chambre appartement de 12m² à Paris,600,12,1,"16 Avenue de Wagram, 75008 Paris, France",appartement,50
-1 chambre appartement de 19m² à Paris,900,19,1,"75017 Paris, France",appartement,47
-2 chambres appartement de 40m² à Paris,1120,40,2,"Paris, France",appartement,28
-1 chambre appartement de 10m² à Paris,583,10,1,"75005 Paris, France",appartement,58
-1 chambre appartement de 10m² à Paris,500,10,1,"14 Boulevard d'Inkermann, 92200 Neuilly-sur-Seine, France",appartement,50
-1 chambre appartement de 21m² à Paris,730,21,1,"6 Rue Lamarck, 75018 Paris, France",appartement,35
-1 chambre appartement de 20m² à Paris,600,20,1,"75000 Paris, France",appartement,30
-1 chambre studio de 19m² à Paris,710,19,1,"32 Boulevard de l'Hôpital, 75005 Paris, France",studio,37
-2 chambres appartement de 28m² à Paris,970,28,2,"75013 Paris, France",appartement,35
-2 chambres appartement de 36m² à Paris,876,36,2,"75020 Paris, France",appartement,24
-1 chambre appartement de 8m² à Paris,484,8,1,"75019 Paris, France",appartement,60
-5 chambres appartement de 202m² à Paris,1100,202,5,"10 Rue du Cloître Notre-Dame, 75004 Paris, France",appartement,5
-4 chambres appartement de 77m² à Paris,1300,77,4,"Victor Hugo, Avenue Victor Hugo, 75116 Paris, France",appartement,17
-1 chambre appartement de 15m² à Paris,140,15,1,"Expectra Search, Rue Vernet, 75008 Paris, France",appartement,9
-2 chambres appartement de 30m² à Paris,1240,30,2,"Place Monge, Rue Larrey, 75005 Paris, France",appartement,41
-2 chambres appartement de 62m² à Paris,1650,62,2,"97 Boulevard Voltaire, 75011 Paris, France",appartement,27
-1 chambre studio de 23m² à Paris,1050,23,1,"2 Rue Coëtlogon, 75006 Paris, France",studio,46
-3 chambres appartement de 72m² à Paris,2040,72,3,"Paris, France",appartement,28
-2 chambres appartement de 28m² à Paris,1200,28,2,"France Télévisions, 7 Esplanade Henri de France, 75015 Paris, France",appartement,43
-1 chambre appartement de 27m² à Paris,345,27,1,"Douai, Nord, France",appartement,13
-4 chambres appartement de 90m² à Paris,800,90,4,"62210 Avion, France",appartement,9
-2 chambres appartement de 50m² à Paris,1490,50,2,"26 Rue Vineuse, 75116 Paris, France",appartement,30
-5 chambres appartement de 1m² à Paris,700,1,5,"62110 Hénin-Beaumont, France",appartement,700
-5 chambres appartement de 90m² à Paris,700,90,5,"62970 Courcelles-lès-Lens, France",appartement,8
-1 chambre appartement de 30m² à Paris,1200,30,1,"52 Quai de Jemmapes, 75010 Paris, France",appartement,40
-2 chambres appartement de 30m² à Paris,1500,30,2,"68 Rue d'Assas, 75006 Paris, France",appartement,50
-1 chambre appartement de 15m² à Paris,160,15,1,"29 Rue des Longues Raies, 75013 Paris, France",appartement,11
-1 chambre studio de 8m² à Paris,497,8,1,"75012 Paris, France",studio,62
-3 chambres appartement de 66m² à Paris,2000,66,3,"212 Rue de l'Université, 75007 Paris, France",appartement,30
-1 chambre studio de 20m² à Paris,860,20,1,"6 Rue de l'Essai, 75005 Paris, France",studio,43
-3 chambres maison de 73m² à Paris,800,73,3,"10 Rue du Cloître Notre-Dame, 75004 Paris, France",maison,11
-2 chambres appartement de 26m² à Paris,1257,26,2,"35 Rue Blanche, 75009 Paris, France",appartement,48
-1 chambre appartement de 15m² à Paris,550,15,1,"75000 Paris, France",appartement,37
-1 chambre appartement de 40m² à Paris,1010,40,1,"75010 Paris, France",appartement,25
-1 chambre appartement de 1m² à Paris,320,1,1,"Lens, Pas-de-Calais, France",appartement,320
-1 chambre appartement de 1m² à Paris,350,1,1,"62110 Hénin-Beaumont, France",appartement,350
-1 chambre de 60m² à Paris,520,60,1,"72 Rue Myrha, 75018 Paris, France",chambre,9
-3 chambres appartement de 54m² à Paris,480,54,3,"62210 Avion, France",appartement,9
-1 chambre appartement de 20m² à Paris,950,20,1,"22 Quai du Louvre, 75001 Paris, France",appartement,48
-2 chambres appartement de 45m² à Paris,470,45,2,"Lens, Pas-de-Calais, France",appartement,10
-1 chambre studio de 20m² à Paris,1200,20,1,"10 Rue Pierre le Grand, 75008 Paris, France",studio,60
-1 chambre appartement de 9m² à Paris,600,9,1,"73 Boulevard Exelmans, 75016 Paris, France",appartement,67
-2 chambres appartement de 29m² à Paris,876,29,2,"75017 Paris, France",appartement,30
-2 chambres appartement de 58m² à Paris,1700,58,2,"Paris, France",appartement,29
-2 chambres appartement de 17m² à Paris,785,17,2,"167 Rue du Château des Rentiers, 75013 Paris, France",appartement,46
-1 chambre appartement de 24m² à Paris,770,24,1,"Commissariat de police de Paris, 250 Rue de Vaugirard, 75015 Paris, France",appartement,32
-1 chambre studio de 15m² à Paris,750,15,1,"61 Rue Haxo, 75020 Paris, France",studio,50
-1 chambre studio de 18m² à Paris,760,18,1,"2 Rue Scipion, 75005 Paris, France",studio,42
-1 chambre appartement de 25m² à Paris,570,25,1,"Paris, France",appartement,23
-1 chambre appartement de 18m² à Paris,613,18,1,"14 Rue des Meuniers, 75012 Paris, France",appartement,34
-3 chambres appartement de 70m² à Paris,2285,70,3,"Paris, France",appartement,33
-2 chambres appartement de 42m² à Paris,1220,42,2,"11 Rue du Jura, 75013 Paris, France",appartement,29
-1 chambre appartement de 23m² à Paris,910,23,1,"Paris, France",appartement,40
-1 chambre appartement de 9m² à Paris,630,9,1,"75000 Paris, France",appartement,70
-1 chambre de 135m² à Paris,865,135,1,"Rue Fernand Pelloutier, 75017 Paris, France",chambre,6
-2 chambres appartement de 26m² à Paris,850,26,2,"16 Rue de la Fontaine du But, 75018 Paris, France",appartement,33
-4 chambres appartement de 70m² à Paris,2150,70,4,"75116 Paris, France",appartement,31
-1 chambre appartement de 90m² à Paris,730,90,1,"62970 Courcelles-lès-Lens, France",appartement,8
-2 chambres appartement de 45m² à Paris,400,45,2,"62110 Hénin-Beaumont, France",appartement,9
-3 chambres appartement de 49m² à Paris,1436,49,3,"11 Rue Le Brun, 75013 Paris, France",appartement,29
-1 chambre appartement de 25m² à Paris,650,25,1,"94170 Le Perreux-sur-Marne, France",appartement,26
-1 chambre appartement de 34m² à Paris,848,34,1,"93100 Montreuil, France",appartement,25
-1 chambre studio de 12m² à Paris,920,12,1,"75 Rue de la Tour, 75116 Paris, France",studio,77
-3 chambres appartement de 75m² à Paris,1200,75,3,"75020 Paris, France",appartement,16
-1 chambre de 100m² à Paris,820,100,1,"67 bis Rue de la Chapelle, 75018 Paris, France",chambre,8
-3 chambres appartement de 52m² à Paris,485,52,3,"Lens, Pas-de-Calais, France",appartement,9
-3 chambres appartement de 60m² à Paris,550,60,3,"62110 Hénin-Beaumont, France",appartement,9
-1 chambre appartement de 25m² à Paris,370,25,1,"62430 Sallaumines, France",appartement,15
-5 chambres appartement de 95m² à Paris,795,95,5,"62410 Hulluch, France",appartement,8
-1 chambre studio de 13m² à Lyon,310,13,1,"7 Rue Claude Boyer, 69007 Lyon, France",studio,24
-1 chambre appartement de 25m² à Lyon,580,25,1,"8 Rue Henri IV, 69002 Lyon, France",appartement,23
-1 chambre appartement de 15m² à Lyon,360,15,1,"Temple de la Lanterne, Rue Lanterne, 69001 Lyon, France",appartement,24
-3 chambres appartement de 48m² à Lyon,775,48,3,"8 Avenue des Frères Lumière, 69008 Lyon, France",appartement,16
-1 chambre de 17m² à Lyon,500,17,1,"Lyon, Métropole de Lyon, France",chambre,29
-1 chambre appartement de 18m² à Lyon,300,18,1,"Temple de la Lanterne, Rue Lanterne, 69001 Lyon, France",appartement,17
-1 chambre studio de 31m² à Lyon,890,31,1,"73 Rue de Sèze, 69006 Lyon, France",studio,29
-1 chambre appartement de 18m² à Lyon,640,18,1,"Lyon, Métropole de Lyon, France",appartement,36
-1 chambre appartement de 17m² à Lyon,398,17,1,"47 Rue Domer, 69007 Lyon, France",appartement,23
-3 chambres appartement de 68m² à Lyon,2400,68,3,"6 Rue Victor Hugo, 69002 Lyon, France",appartement,35
-1 chambre appartement de 18m² à Lyon,429,18,1,"69008 Lyon, France",appartement,24
-1 chambre de 16m² à Lyon,395,16,1,"62 Avenue Ferdinand Buisson, 69500 Bron, France",chambre,25
-2 chambres appartement de 38m² à Lyon,1000,38,2,"Lyon, Métropole de Lyon, France",appartement,26
-1 chambre appartement de 28m² à Lyon,517,28,1,"Poste Lyon Montchat, 3 Cours Eugénie, 69003 Lyon, France",appartement,18
-3 chambres appartement de 56m² à Lyon,954,56,3,"Lyon 5e Arrondissement, Rhône, France",appartement,17
-1 chambre studio de 26m² à Lyon,670,26,1,"21 Rue d'Anvers, 69007 Lyon, France",studio,26
-1 chambre appartement de 30m² à Lyon,545,30,1,"Poste Lyon Montchat, 3 Cours Eugénie, 69003 Lyon, France",appartement,18
-3 chambres appartement de 69m² à Lyon,900,69,3,"2 Place Sathonay, 69001 Lyon, France",appartement,13
-2 chambres appartement de 3612m² à Lyon,655,3612,2,"24 Quai Claude Bernard, 69007 Lyon, France",appartement,0
-1 chambre appartement de 76m² à Lyon,623,76,1,"Appel Médical, Avenue Félix Faure, 69003 Lyon, France",appartement,8
-1 chambre appartement de 18m² à Lyon,580,18,1,"7 Place Bellecour, 69002 Lyon, France",appartement,32
-3 chambres appartement de 62m² à Lyon,904,62,3,"69009 Lyon, France",appartement,15
-3 chambres appartement de 60m² à Lyon,924,60,3,"69009 Lyon, France",appartement,15
-2 chambres appartement de 57m² à Lyon,910,57,2,"Lyon 5e Arrondissement, Rhône, France",appartement,16
-1 chambre appartement de 145m² à Lyon,402,145,1,"74 Rue Challemel-Lacour, 69007 Lyon, France",appartement,3
-1 chambre de 80m² à Lyon,530,80,1,"18 Rue Paul Bert, 69003 Lyon, France",chambre,7
-1 chambre studio de 24m² à Lyon,745,24,1,"134 Rue Sully, 69006 Lyon, France",studio,31
-3 chambres appartement de 6462m² à Lyon,890,6462,3,"16 Rue Pasteur, 69007 Lyon, France",appartement,0
-1 chambre appartement de 38m² à Lyon,780,38,1,"178 Rue Garibaldi, 69003 Lyon, France",appartement,21
-1 chambre appartement de 53m² à Lyon,950,53,1,"54 Rue Jacquard, 69004 Lyon, France",appartement,18
-1 chambre appartement de 32m² à Lyon,870,32,1,"95 Rue Baraban, 69003 Lyon, France",appartement,27
-4 chambres appartement de 68m² à Lyon,720,68,4,"Poste Lyon Montchat, 3 Cours Eugénie, 69003 Lyon, France",appartement,11
-5 chambres appartement de 82m² à Lyon,545,82,5,"Lyon, Métropole de Lyon, France",appartement,7
-4 chambres maison de 108m² à Lyon,1750,108,4,"4 Rue Paul Bourde, 69003 Lyon, France",maison,16
-1 chambre studio de 14m² à Lyon,700,14,1,"14 Cours Charlemagne, 69002 Lyon, France",studio,50
-1 chambre studio de 34m² à Lyon,693,34,1,"15 Avenue Jean-François Raclet, 69007 Lyon, France",studio,20
-4 chambres appartement de 62m² à Lyon,890,62,4,"108 Rue du Professeur Beauvisage, 69008 Lyon, France",appartement,14
-1 chambre studio de 20m² à Lyon,735,20,1,"3 Rue Denuzière, 69002 Lyon, France",studio,37
-2 chambres appartement de 4004m² à Lyon,710,4004,2,"16 Grande Rue de la Croix-Rousse, 69004 Lyon, France",appartement,0
-1 chambre de 82m² à Lyon,545,82,1,"2 Avenue Paul Santy, 69008 Lyon, France",chambre,7
-2 chambres appartement de 62m² à Lyon,888,62,2,"Lyon, Métropole de Lyon, France",appartement,14
-1 chambre studio de 32m² à Lyon,715,32,1,"7 Rue Marc-Antoine Petit, 69002 Lyon, France",studio,22
-1 chambre appartement de 16m² à Lyon,370,16,1,"26 Quai Arloing, 69009 Lyon, France",appartement,23
-4 chambres appartement de 88m² à Lyon,1200,88,4,"80 Rue Benoist Mary, 69005 Lyon, France",appartement,14
-1 chambre appartement de 40m² à Lyon,720,40,1,"Lyon, Métropole de Lyon, France",appartement,18
-1 chambre appartement de 47m² à Lyon,1090,47,1,"125 Avenue Berthelot, 69007 Lyon, France",appartement,23
-1 chambre de 90m² à Lyon,435,90,1,"23 Rue de Brest, 69002 Lyon, France",chambre,5
-5 chambres appartement de 82m² à Lyon,545,82,5,"Lyon, Métropole de Lyon, France",appartement,7
-2 chambres appartement de 37m² à Lyon,550,37,2,"Poste Lyon Montchat, 3 Cours Eugénie, 69003 Lyon, France",appartement,15
-2 chambres appartement de 62m² à Lyon,876,62,2,"110 Rue Garibaldi, 69006 Lyon, France",appartement,14
-1 chambre appartement de 27m² à Lyon,505,27,1,"Poste Lyon Montchat, 3 Cours Eugénie, 69003 Lyon, France",appartement,19
-7 chambres appartement de 239m² à Lyon,2915,239,7,"Lyon, Métropole de Lyon, France",appartement,12
-1 chambre appartement de 26m² à Lyon,540,26,1,"Anne-sophie Dachy - Ostéopathe Lyon 9, 6 Passage du Béal, 69009 Lyon, France",appartement,21
-1 chambre appartement de 23m² à Lyon,515,23,1,"Milpa, 2 Rue de Belfort, 69004 Lyon, France",appartement,22
-2 chambres appartement de 49m² à Lyon,785,49,2,"9 Rue Saint-Eusèbe, 69003 Lyon, France",appartement,16
-2 chambres appartement de 29m² à Lyon,795,29,2,"69 Rue Vendôme, 69006 Lyon, France",appartement,27
-1 chambre de 62m² à Lyon,700,62,1,"19 Rue Desaix, 69003 Lyon, France",chambre,11
-1 chambre appartement de 32m² à Lyon,590,32,1,"Anne-sophie Dachy - Ostéopathe Lyon 9, 6 Passage du Béal, 69009 Lyon, France",appartement,18
-2 chambres appartement de 49m² à Lyon,957,49,2,"3 Rue des Alouettes, 69008 Lyon, France",appartement,20
-2 chambres appartement de 29m² à Lyon,681,29,2,"19 Rue Pernon, 69004 Lyon, France",appartement,23
-1 chambre appartement de 20m² à Lyon,520,20,1,"Temple de la Lanterne, Rue Lanterne, 69001 Lyon, France",appartement,26
-2 chambres appartement de 37m² à Lyon,600,37,2,"2 Allée de Lodz, 69007 Lyon, France",appartement,16
-1 chambre appartement de 26m² à Lyon,462,26,1,"223 Rue de Créqui, 69003 Lyon, France",appartement,18
-2 chambres appartement de 40m² à Lyon,710,40,2,"Orpi Agence Du Boulevard Immo Lyon 4Eme, Boulevard de la Croix-Rousse, 69004 Lyon, France",appartement,18
-2 chambres appartement de 54m² à Lyon,1000,54,2,"Lyon 9e Arrondissement, Rhône, France",appartement,19
-4 chambres appartement de 91m² à Lyon,1346,91,4,"31 Rue du Maréchal de Lattre de Tassigny, 69009 Lyon, France",appartement,15
-5 chambres appartement de 118m² à Lyon,2595,118,5,"2 Place des Cordeliers, 69002 Lyon, France",appartement,22
-2 chambres appartement de 36m² à Lyon,525,36,2,"Poste Lyon Montchat, 3 Cours Eugénie, 69003 Lyon, France",appartement,15
-1 chambre appartement de 42m² à Lyon,985,42,1,"21 Rue Barrier, 69006 Lyon, France",appartement,23
-1 chambre de 80m² à Lyon,675,80,1,"216 Rue de Créqui, 69003 Lyon, France",chambre,8
-2 chambres appartement de 828m² à Lyon,1900,828,2,"4 Rue Rabelais, 69003 Lyon, France",appartement,2
-3 chambres appartement de 70m² à Lyon,1050,70,3,"Lyon, Métropole de Lyon, France",appartement,15
-1 chambre de 90m² à Lyon,400,90,1,"17 Rue de Brest, 69002 Lyon, France",chambre,4
-1 chambre de 80m² à Lyon,620,80,1,"Lyon, Métropole de Lyon, France",chambre,8
-1 chambre appartement de 35m² à Lyon,795,35,1,"12 Montée du Gourguillon, 69005 Lyon, France",appartement,23
-4 chambres appartement de 100m² à Lyon,2190,100,4,"8 Place Gailleton, 69002 Lyon, France",appartement,22
-1 chambre studio de 3798m² à Lyon,755,3798,1,"36 Rue Pasteur, 69007 Lyon, France",studio,0
-3 chambres appartement de 60m² à Lyon,1197,60,3,"69008 Lyon, France",appartement,20
-3 chambres maison de 110m² à Lyon,2350,110,3,"3 ter Rue Saint-Gervais, 69008 Lyon, France",maison,21
-1 chambre appartement de 18m² à Lyon,500,18,1,"Temple de la Lanterne, Rue Lanterne, 69001 Lyon, France",appartement,28
-4 chambres appartement de 86m² à Marseille,850,86,4,"Marseille, Bouches-du-Rhône, France",appartement,10
-1 chambre appartement de 38m² à Marseille,508,38,1,"13010 Marseille, France",appartement,13
-2 chambres appartement de 39m² à Marseille,740,39,2,"68 Quai du Port, 13002 Marseille, France",appartement,19
-1 chambre studio de 25m² à Marseille,650,25,1,"16 Rue Aldebert, 13006 Marseille, France",studio,26
-2 chambres appartement de 22m² à Marseille,580,22,2,"123 Avenue des Chartreux, 13004 Marseille, France",appartement,26
-3 chambres appartement de 61m² à Marseille,773,61,3,"Marseille, Bouches-du-Rhône, France",appartement,13
-3 chambres appartement de 82m² à Marseille,885,82,3,"Impasse des Bonnets, 13013 Marseille, France",appartement,11
-2 chambres appartement de 36m² à Marseille,680,36,2,"Expectra, 165 Avenue du Prado, 13008 Marseille, France",appartement,19
-4 chambres appartement de 81m² à Marseille,580,81,4,"Marseille, Bouches-du-Rhône, France",appartement,7
-1 chambre appartement de 13m² à Marseille,424,13,1,"13002 Marseille, France",appartement,33
-3 chambres maison de 57m² à Marseille,420,57,3,"Marseille, Bouches-du-Rhône, France",maison,7
-3 chambres appartement de 110m² à Marseille,695,110,3,"Marseille, Bouches-du-Rhône, France",appartement,6
-5 chambres appartement de 96m² à Marseille,600,96,5,"Marseille, Bouches-du-Rhône, France",appartement,6
-2 chambres maison de 61m² à Marseille,776,61,2,"Avenue des olives, 13013 Marseille, France",maison,13
-1 chambre appartement de 21m² à Marseille,495,21,1,"3 Avenue du general brissac, 13014 Marseille, France",appartement,24
-3 chambres appartement de 69m² à Marseille,1300,69,3,"12 Boulevard du centre, 13012 Marseille, France",appartement,19
-2 chambres appartement de 62m² à Marseille,899,62,2,"30 Rue De Forbin, 13002 Marseille, France",appartement,14
-1 chambre appartement de 73m² à Marseille,1100,73,1,"18 Rue Augustin Fabre, 13006 Marseille, France",appartement,15
-1 chambre appartement de 42m² à Marseille,750,42,1,"38b Rue michel gachet, 13007 Marseille, France",appartement,18
-1 chambre appartement de 10m² à Marseille,356,10,1,"Vallon de Sugiton, 13009 Marseille, France",appartement,36
-2 chambres appartement de 39m² à Marseille,555,39,2,"Marseille 6e Arrondissement, Bouches-du-Rhône, France",appartement,14
-1 chambre de 62m² à Marseille,440,62,1,"93 Boulevard National, 13003 Marseille, France",chambre,7
-2 chambres appartement de 35m² à Marseille,780,35,2,"Marseille, Bouches-du-Rhône, France",appartement,22
-1 chambre appartement de 20m² à Marseille,609,20,1,"France Travail La Valentine, 10 Route de la Valentine, 13011 Marseille, France",appartement,30
-1 chambre appartement de 30m² à Marseille,540,30,1,"13003 Marseille, France",appartement,18
-1 chambre appartement de 18m² à Marseille,400,18,1,"131 Rue pierre doize, 13010 Marseille, France",appartement,22
-1 chambre appartement de 17m² à Marseille,490,17,1,"33 Place jules guesde, 13002 Marseille, France",appartement,29
-2 chambres appartement de 39m² à Marseille,570,39,2,"Marseille 5e Arrondissement, Bouches-du-Rhône, France",appartement,15
-4 chambres appartement de 110m² à Marseille,695,110,4,"13000 Marseille, France",appartement,6
-1 chambre appartement de 14m² à Marseille,410,14,1,"Police nationale, 87 Boulevard Mireille Lauze, 13010 Marseille, France",appartement,29
-3 chambres appartement de 38m² à Marseille,729,38,3,"Môle de l'Abattoir, 13002 Marseille, France",appartement,19
-1 chambre appartement de 12m² à Marseille,450,12,1,"13000 Marseille, France",appartement,38
-1 chambre appartement de 26m² à Marseille,540,26,1,"Orange, 2 Rue Jules Ferry, 13331 Marseille, France",appartement,21
-1 chambre appartement de 20m² à Marseille,470,20,1,"33 Rue vega, 13015 Marseille, France",appartement,24
-1 chambre appartement de 89m² à Marseille,1625,89,1,"Rue Pascal, 13007 Marseille, France",appartement,18
-2 chambres appartement de 34m² à Marseille,730,34,2,"12 Boulevard du centre, 13012 Marseille, France",appartement,21
-2 chambres appartement de 67m² à Marseille,900,67,2,"128 Traverse montcault, 13014 Marseille, France",appartement,13
-3 chambres appartement de 61m² à Marseille,701,61,3,"50 Boulevard Guigou, 13003 Marseille, France",appartement,11
-3 chambres appartement de 53m² à Marseille,830,53,3,"Marseille, Bouches-du-Rhône, France",appartement,16
-2 chambres appartement de 35m² à Marseille,685,35,2,"Marseille, Bouches-du-Rhône, France",appartement,20
-3 chambres appartement de 57m² à Marseille,851,57,3,"Marseille, Bouches-du-Rhône, France",appartement,15
-2 chambres appartement de 3919m² à Marseille,770,3919,2,"Môle de l'Abattoir, 13002 Marseille, France",appartement,0
-1 chambre studio de 24m² à Marseille,657,24,1,"Boulevard de la Libération - Général de Monsabert, 13001 Marseille, France",studio,27
-1 chambre appartement de 31m² à Marseille,490,31,1,"Parking 1 ere armee francaise--henry barnier ramifie, 13015 Marseille, France",appartement,16
-1 chambre appartement de 16m² à Marseille,490,16,1,"10 Boulevard Bouès, 13003 Marseille, France",appartement,31
-3 chambres appartement de 59m² à Marseille,895,59,3,"213 Rue du Rouet, 13008 Marseille, France",appartement,15
-1 chambre appartement de 46m² à Marseille,1220,46,1,"15 Avenue du Colonel Serot, 13008 Marseille, France",appartement,27
-1 chambre de 38m² à Marseille,385,38,1,"213 Avenue des Chartreux, 13004 Marseille, France",chambre,10
-1 chambre appartement de 6m² à Marseille,110,6,1,"unnamed road, 13009 Marseille, France",appartement,18
-1 chambre appartement de 6m² à Marseille,110,6,1,"13000 Marseille, France",appartement,18
-4 chambres appartement de 67m² à Marseille,902,67,4,"13000 Marseille, France",appartement,13
-4 chambres appartement de 86m² à Marseille,1300,86,4,"13000 Marseille, France",appartement,15
-2 chambres appartement de 50m² à Marseille,490,50,2,"Police nationale, 87 Boulevard Mireille Lauze, 13010 Marseille, France",appartement,10
-4 chambres appartement de 80m² à Marseille,580,80,4,"13000 Marseille, France",appartement,7
-4 chambres maison de 165m² à Marseille,3750,165,4,"Boulevard de la Verrerie, 13008 Marseille, France",maison,23
-1 chambre appartement de 29m² à Marseille,540,29,1,"68 Quai du Port, 13002 Marseille, France",appartement,19
-1 chambre de 64m² à Marseille,470,64,1,"126 Rue alphonse daudet, 13013 Marseille, France",chambre,7
-2 chambres appartement de 42m² à Marseille,612,42,2,"13000 Marseille, France",appartement,15
-4 chambres appartement de 86m² à Marseille,610,86,4,"Marseille 6e Arrondissement, Bouches-du-Rhône, France",appartement,7
-1 chambre maison de 107m² à Marseille,1650,107,1,"Allée des Mésanges, 13012 Marseille, France",maison,15
-2 chambres appartement de 39m² à Marseille,714,39,2,"Marseille, Bouches-du-Rhône, France",appartement,18
-3 chambres appartement de 72m² à Marseille,1135,72,3,"12 Boulevard du centre, 13012 Marseille, France",appartement,16
-3 chambres appartement de 50m² à Marseille,880,50,3,"2 Rue raymond teisseire, 13008 Marseille, France",appartement,18
-2 chambres appartement de 37m² à Marseille,680,37,2,"Rue villeneuve, 13001 Marseille, France",appartement,18
-4 chambres appartement de 76m² à Marseille,1270,76,4,"Expectra, 165 Avenue du Prado, 13008 Marseille, France",appartement,17
-2 chambres appartement de 49m² à Marseille,500,49,2,"Union des Familles Musulmanes des Bouches du Rhône, Rue Nationale, 13001 Marseille, France",appartement,10
-3 chambres appartement de 57m² à Marseille,890,57,3,"68 Quai du Port, 13002 Marseille, France",appartement,16
-1 chambre de 25m² à Marseille,495,25,1,"9 Rue de Lodi, 13006 Marseille, France",chambre,20
-4 chambres appartement de 76m² à Marseille,1270,76,4,"1 Boulevard de Lorraine, 13008 Marseille, France",appartement,17
-1 chambre studio de 18m² à Marseille,495,18,1,"Marseille, Bouches-du-Rhône, France",studio,28
-1 chambre maison de 13m² à Marseille,450,13,1,"Chemin des Mourets, 13013 Marseille, France",maison,35
-2 chambres appartement de 30m² à Marseille,630,30,2,"37 Traverse du boulevard exterieur, 13004 Marseille, France",appartement,21
-1 chambre appartement de 27m² à Marseille,600,27,1,"13000 Marseille, France",appartement,22
-1 chambre appartement de 20m² à Marseille,450,20,1,"13000 Marseille, France",appartement,22
-1 chambre de 41m² à Marseille,470,41,1,"63 Boulevard Françoise Duparc, 13004 Marseille, France",chambre,11
-2 chambres maison de 61m² à Marseille,1000,61,2,"Rue des Électriciens, 13012 Marseille, France",maison,16
-1 chambre appartement de 29m² à Marseille,465,29,1,"Police nationale, 87 Boulevard Mireille Lauze, 13010 Marseille, France",appartement,16
-3 chambres appartement de 61m² à Marseille,990,61,3,"Marseille, Bouches-du-Rhône, France",appartement,16
-3 chambres appartement de 58m² à Marseille,809,58,3,"13000 Marseille, France",appartement,14
-3 chambres appartement de 43m² à Marseille,712,43,3,"391 Rue Saint-Pierre, 13005 Marseille, France",appartement,17
-1 chambre appartement de 27m² à Lille,397,27,1,"71 Avenue de la République, 59160 Lomme, France",appartement,15
-1 chambre appartement de 15m² à Lille,290,15,1,"Lille, Nord, France",appartement,19
-1 chambre appartement de 12m² à Lille,440,12,1,"22 Rue Eugène Vermersch, 59000 Lille, France",appartement,37
-1 chambre studio de 20m² à Lille,550,20,1,"98 Avenue de Bretagne, 59130 Lille, France",studio,28
-1 chambre appartement de 32m² à Lille,550,32,1,"Lille, Nord, France",appartement,17
-1 chambre appartement de 26m² à Lille,392,26,1,"80 Rue de la Chaude Rivière, 59800 Lille, France",appartement,15
-1 chambre de 63m² à Lille,470,63,1,"59000 Lille, France",chambre,7
-1 chambre studio de 29m² à Lille,432,29,1,"Lille, Nord, France",studio,15
-1 chambre de 10m² à Lille,410,10,1,"Lille, Nord, France",chambre,41
-1 chambre studio de 13m² à Lille,450,13,1,"170 Rue Victor Hugo / Rue de Lannoy, 59000 Lille, France",studio,35
-2 chambres appartement de 30m² à Lille,500,30,2,"7 Place du Général De Gaulle, 59800 Lille, France",appartement,17
-1 chambre appartement de 28m² à Lille,417,28,1,"71 Avenue de la République, 59160 Lomme, France",appartement,15
-3 chambres appartement de 66m² à Lille,808,66,3,"59000 Lille, France",appartement,12
-2 chambres appartement de 31m² à Lille,515,31,2,"8 Rue des Myosotis, 59037 Lille, France",appartement,17
-1 chambre appartement de 23m² à Lille,530,23,1,"34 Rue Oscar Fanyau, 59260 Hellemmes-Lille, France",appartement,23
-1 chambre de 179m² à Lille,420,179,1,"98 Avenue de Bretagne, 59130 Lille, France",chambre,2
-1 chambre de 65m² à Lille,455,65,1,"2 Rue Laplace, 59370 Lille, France",chambre,7
-1 chambre appartement de 936m² à Lille,303,936,1,"11 Rue Saint-Gabriel, 59777 Lille, France",appartement,0
-1 chambre appartement de 11m² à Lille,480,11,1,"75 Rue du Professeur Langevin, 59000 Lille, France",appartement,44
-2 chambres appartement de 42m² à Lille,705,42,2,"11 Rue Gisèle Casadesus, 59160 Lomme, France",appartement,17
-1 chambre studio de 19m² à Lille,480,19,1,"170 Rue Victor Hugo / Rue de Lannoy, 59000 Lille, France",studio,25
-1 chambre studio de 35m² à Lille,540,35,1,"Villa Saint Michel, 59000 Lille, France",studio,15
-7 chambres maison de 151m² à Lille,1945,151,7,"55 Rue Fénelon (Lille), 59000 Lille, France",maison,13
-3 chambres maison de 57m² à Lille,822,57,3,"8 Rue des Myosotis, 59037 Lille, France",maison,14
-1 chambre studio de 19m² à Lille,528,19,1,"Lille, Nord, France",studio,28
-4 chambres appartement de 87m² à Lille,1099,87,4,"61 Rue du Professeur Langevin, 59800 Lille, France",appartement,13
-1 chambre de 25m² à Lille,340,25,1,"Rue du XXème Siècle, 59160 Lomme, France",chambre,14
-3 chambres appartement de 73m² à Lille,899,73,3,"8 Rue des Myosotis, 59037 Lille, France",appartement,12
-1 chambre de 37m² à Lille,530,37,1,"59000 Lille, France",chambre,14
-4 chambres maison de 87m² à Lille,1164,87,4,"8 Rue des Myosotis, 59037 Lille, France",maison,13
-2 chambres appartement de 25m² à Lille,620,25,2,"Lille, Nord, France",appartement,25
-2 chambres appartement de 40m² à Lille,788,40,2,"8 Rue des Myosotis, 59037 Lille, France",appartement,20
-2 chambres appartement de 40m² à Lille,660,40,2,"Lille, Nord, France",appartement,16
-2 chambres appartement de 40m² à Lille,530,40,2,"Lille, Nord, France",appartement,13
-1 chambre de 26m² à Lille,350,26,1,"Rue Barni, 59260 Lille, France",chambre,13
-1 chambre studio de 10m² à Lille,582,10,1,"59024 Lille, France",studio,58
-1 chambre appartement de 24m² à Lille,429,24,1,"8 Rue des Myosotis, 59037 Lille, France",appartement,18
-1 chambre studio de 18m² à Lille,499,18,1,"Lille, Nord, France",studio,28
-1 chambre de 64m² à Lille,470,64,1,"59000 Lille, France",chambre,7
-1 chambre de 25m² à Lille,340,25,1,"Rue du XXème Siècle, 59160 Lomme, France",chambre,14
-3 chambres appartement de 58m² à Lille,924,58,3,"Tranquilité, 404/406 Rue Léon Gambetta, 59900 Lille, France",appartement,16
-1 chambre appartement de 20m² à Lille,516,20,1,"Rue Brûle-Maison, 59000 Lille, France",appartement,26
-2 chambres appartement de 45m² à Lille,900,45,2,"59000 Lille, France",appartement,20
-4 chambres appartement de 69m² à Lille,1116,69,4,"271 Avenue Willy Brandt, 59800 Lille, France",appartement,16
-5 chambres maison de 10m² à Lille,410,10,5,"Lille, Nord, France",maison,41
-1 chambre appartement de 20m² à Lille,480,20,1,"106B Rue Neuve Prolongée, 59242 Templeuve-en-Pévèle, France",appartement,24
-1 chambre studio de 17m² à Lille,600,17,1,"59000 Lille, France",studio,35
-6 chambres appartement de 10m² à Lille,359,10,6,"Lille, Nord, France",appartement,36
-2 chambres appartement de 48m² à Lille,820,48,2,"Lille, Nord, France",appartement,17
-1 chambre studio de 18m² à Lille,550,18,1,"98 Avenue de Bretagne, 59130 Lille, France",studio,31
-1 chambre studio de 15m² à Lille,595,15,1,"98 Avenue de Bretagne, 59130 Lille, France",studio,40
-5 chambres maison de 108m² à Lille,390,108,5,"Lille, Nord, France",maison,4
-1 chambre appartement de 11m² à Lille,400,11,1,"Parvis Saint-Michel, 59000 Lille, France",appartement,36
-3 chambres appartement de 69m² à Lille,1000,69,3,"Hôtel Eklo, Rue du Professeur Langevin, 59000 Lille, France",appartement,14
-1 chambre appartement de 20m² à Lille,490,20,1,"Lille, Nord, France",appartement,24
-3 chambres appartement de 66m² à Lille,964,66,3,"Jean-Baptiste Lebas, Boulevard Jean-Baptiste Lebas, 59024 Lille, France",appartement,15
-3 chambres appartement de 64m² à Lille,1037,64,3,"27 Rue Rachel Lempereur, 59000 Lille, France",appartement,16
-1 chambre de 61m² à Lille,413,61,1,"23 Boulevard d'Alsace, 59024 Lille, France",chambre,7
-1 chambre appartement de 30m² à Lille,600,30,1,"Lille, Nord, France",appartement,20
-1 chambre de 130m² à Lille,450,130,1,"61 Rue Roger Salengro, 59260 Hellemmes-Lille, France",chambre,3
-1 chambre de 88m² à Lille,440,88,1,"59000 Lille, France",chambre,5
-3 chambres appartement de 66m² à Lille,862,66,3,"A 25, 59037 Lille, France",appartement,13
-2 chambres appartement de 28m² à Lille,698,28,2,"80 Rue de la Chaude Rivière, 59800 Lille, France",appartement,25
-1 chambre studio de 18m² à Lille,437,18,1,"Lille, Nord, France",studio,24
-3 chambres appartement de 74m² à Lille,1140,74,3,"8 Rue des Myosotis, 59037 Lille, France",appartement,15
-1 chambre appartement de 29m² à Lille,438,29,1,"71 Avenue de la République, 59160 Lomme, France",appartement,15
-2 chambres appartement de 22m² à Lille,418,22,2,"8 Rue des Myosotis, 59037 Lille, France",appartement,19
-1 chambre appartement de 18m² à Lille,490,18,1,"8 Rue des Myosotis, 59037 Lille, France",appartement,27
-6 chambres appartement de 101m² à Lille,572,101,6,"Lille, Nord, France",appartement,6
-1 chambre appartement de 38m² à Lille,575,38,1,"71 Avenue de la République, 59160 Lomme, France",appartement,15
-1 chambre appartement de 36m² à Lille,610,36,1,"Lille, Nord, France",appartement,17
-1 chambre appartement de 54m² à Lille,750,54,1,"71 Avenue de la République, 59160 Lomme, France",appartement,14
-5 chambres maison de 108m² à Lille,390,108,5,"Lille, Nord, France",maison,4
-4 chambres appartement de 85m² à Lille,1251,85,4,"1 Rue Ladrière, 59000 Lille, France",appartement,15
-3 chambres appartement de 66m² à Lille,917,66,3,"Lille, Nord, France",appartement,14
-2 chambres appartement de 21m² à Lille,500,21,2,"8 Rue des Myosotis, 59037 Lille, France",appartement,24
-1 chambre de 25m² à Lille,340,25,1,"Rue du XXème Siècle, 59160 Lomme, France",chambre,14
-1 chambre appartement de 31m² à Lille,451,31,1,"71 Avenue de la République, 59160 Lomme, France",appartement,15
-2 chambres appartement de 24m² à Lille,700,24,2,"80 Rue de la Chaude Rivière, 59800 Lille, France",appartement,29
-3 chambres appartement de 61m² à Lille,807,61,3,"8 Rue des Myosotis, 59037 Lille, France",appartement,13
-4 chambres maison de 64m² à Angers,749,64,4,"49000 Angers, France",maison,12
-2 chambres appartement de 35m² à Angers,360,35,2,"49100 Angers, France",appartement,10
-2 chambres appartement de 44m² à Angers,618,44,2,"49000 Angers, France",appartement,14
-1 chambre maison de 64m² à Angers,550,64,1,"Angers, Maine-et-Loire, France",maison,9
-2 chambres appartement de 40m² à Angers,570,40,2,"49000 Angers, France",appartement,14
-3 chambres appartement de 60m² à Angers,795,60,3,"Rue de Villesicard, 49000 Angers, France",appartement,13
-2 chambres appartement de 39m² à Angers,515,39,2,"49000 Angers, France",appartement,13
-1 chambre appartement de 21m² à Angers,407,21,1,"49000 Angers, France",appartement,19
-1 chambre appartement de 10m² à Angers,330,10,1,"35 Rue du Mail, 49100 Angers, France",appartement,33
-1 chambre appartement de 20m² à Angers,420,20,1,"49000 Angers, France",appartement,21
-1 chambre appartement de 12m² à Angers,380,12,1,"Rue Chef de Ville, 49100 Angers, France",appartement,32
-1 chambre appartement de 31m² à Angers,394,31,1,"Rue de Villesicard, 49000 Angers, France",appartement,13
-3 chambres appartement de 60m² à Angers,520,60,3,"49 Rue de la Morellerie, 49000 Angers, France",appartement,9
-2 chambres appartement de 54m² à Angers,696,54,2,"49100 Angers, France",appartement,13
-2 chambres appartement de 40m² à Angers,650,40,2,"49100 Angers, France",appartement,16
-3 chambres appartement de 60m² à Angers,843,60,3,"49100 Angers, France",appartement,14
-1 chambre appartement de 11m² à Angers,470,11,1,"18 Boulevard de Lavoisier, 49000 Angers, France",appartement,43
-4 chambres appartement de 69m² à Angers,895,69,4,"49100 Angers, France",appartement,13
-2 chambres appartement de 39m² à Angers,615,39,2,"49100 Angers, France",appartement,16
-1 chambre appartement de 10m² à Angers,330,10,1,"Angers, Maine-et-Loire, France",appartement,33
-1 chambre appartement de 24m² à Angers,395,24,1,"Rue de Villesicard, 49000 Angers, France",appartement,16
-6 chambres maison de 125m² à Angers,1350,125,6,"49 Rue de la Morellerie, 49000 Angers, France",maison,11
-1 chambre appartement de 38m² à Angers,525,38,1,"Rue de Villesicard, 49000 Angers, France",appartement,14
-3 chambres appartement de 48m² à Angers,599,48,3,"49100 Angers, France",appartement,12
-4 chambres maison de 90m² à Angers,529,90,4,"Angers, Maine-et-Loire, France",maison,6
-4 chambres appartement de 74m² à Angers,850,74,4,"49100 Angers, France",appartement,11
-5 chambres maison de 96m² à Angers,1200,96,5,"49100 Angers, France",maison,12
-1 chambre appartement de 38m² à Angers,540,38,1,"49000 Angers, France",appartement,14
-1 chambre appartement de 16m² à Angers,550,16,1,"Angers, Maine-et-Loire, France",appartement,34
-1 chambre appartement de 19m² à Angers,300,19,1,"1155 Route de la Guitterie, 49370 Bécon-les-Granits, France",appartement,16
-1 chambre appartement de 14m² à Angers,395,14,1,"49610 Mûrs-Erigné, France",appartement,28
-2 chambres appartement de 47m² à Angers,670,47,2,"67 Quai Félix Faure, 49100 Angers, France",appartement,14
-3 chambres appartement de 58m² à Angers,621,58,3,"49 Rue de la Morellerie, 49000 Angers, France",appartement,11
-3 chambres appartement de 55m² à Angers,670,55,3,"46 Avenue Yolande d’Aragon, 49100 Angers, France",appartement,12
-1 chambre appartement de 28m² à Angers,495,28,1,"49 Rue de la Morellerie, 49100 Angers, France",appartement,18
-2 chambres appartement de 20m² à Angers,620,20,2,"49000 Écouflant, France",appartement,31
-2 chambres appartement de 26m² à Angers,650,26,2,"Angers, Maine-et-Loire, France",appartement,25
-2 chambres appartement de 49m² à Angers,645,49,2,"49100 Angers, France",appartement,13
-2 chambres appartement de 45m² à Angers,740,45,2,"Angers, Maine-et-Loire, France",appartement,16
-1 chambre appartement de 28m² à Angers,450,28,1,"49100 Angers, France",appartement,16
-6 chambres maison de 111m² à Angers,1600,111,6,"49 Rue de la Morellerie, 49100 Angers, France",maison,14
-2 chambres appartement de 43m² à Angers,655,43,2,"Angers, Maine-et-Loire, France",appartement,15
-2 chambres appartement de 50m² à Angers,582,50,2,"49100 Angers, France",appartement,12
-1 chambre de 28m² à Angers,430,28,1,"24 Boulevard Henri Arnauld, 49100 Angers, France",chambre,15
-2 chambres appartement de 42m² à Angers,685,42,2,"49100 Angers, France",appartement,16
-2 chambres appartement de 46m² à Angers,639,46,2,"49 Rue de la Morellerie, 49000 Angers, France",appartement,14
-2 chambres appartement de 37m² à Angers,527,37,2,"49100 Angers, France",appartement,14
-3 chambres appartement de 67m² à Angers,810,67,3,"49000 Angers, France",appartement,12
-3 chambres appartement de 61m² à Angers,860,61,3,"49 Rue de la Morellerie, 49100 Angers, France",appartement,14
-2 chambres appartement de 52m² à Angers,665,52,2,"Boulevard Carnot, 10000 Troyes, France",appartement,13
-1 chambre appartement de 15m² à Angers,385,15,1,"49100 Angers, France",appartement,26
-4 chambres appartement de 102m² à Angers,1497,102,4,"Angers, Maine-et-Loire, France",appartement,15
-1 chambre appartement de 11m² à Angers,560,11,1,"49100 Angers, France",appartement,51
-5 chambres appartement de 90m² à Angers,495,90,5,"Angers, Maine-et-Loire, France",appartement,6
-1 chambre appartement de 15m² à Angers,375,15,1,"49 Rue de la Morellerie, 49000 Angers, France",appartement,25
-3 chambres appartement de 63m² à Angers,803,63,3,"49100 Angers, France",appartement,13
-3 chambres appartement de 69m² à Angers,1110,69,3,"6 Boulevard Arago, 49100 Angers, France",appartement,16
-4 chambres maison de 114m² à Angers,1250,114,4,"Angers, Maine-et-Loire, France",maison,11
-3 chambres appartement de 68m² à Angers,832,68,3,"Angers, Maine-et-Loire, France",appartement,12
-6 chambres maison de 168m² à Angers,1715,168,6,"49 Rue de la Morellerie, 49000 Angers, France",maison,10
-2 chambres appartement de 25m² à Angers,500,25,2,"49 Rue de la Morellerie, 49000 Angers, France",appartement,20
-1 chambre appartement de 16m² à Angers,420,16,1,"Angers, Maine-et-Loire, France",appartement,26
-4 chambres appartement de 79m² à Angers,885,79,4,"49100 Angers, France",appartement,11
-5 chambres appartement de 120m² à Angers,1500,120,5,"Angers, Maine-et-Loire, France",appartement,12
-1 chambre appartement de 32m² à Angers,485,32,1,"49100 Angers, France",appartement,15
-1 chambre appartement de 10m² à Angers,330,10,1,"Angers, Maine-et-Loire, France",appartement,33
-1 chambre maison de 79m² à Angers,1200,79,1,"5 Boulevard du Maréchal Foch, 49100 Angers, France",maison,15
-3 chambres appartement de 63m² à Angers,790,63,3,"49 Rue de la Morellerie, 49000 Angers, France",appartement,13
-2 chambres appartement de 44m² à Angers,660,44,2,"49100 Angers, France",appartement,15
-3 chambres appartement de 54m² à Angers,770,54,3,"49100 Angers, France",appartement,14
-4 chambres maison de 89m² à Angers,1070,89,4,"49 Rue de la Morellerie, 49000 Angers, France",maison,12
-2 chambres appartement de 56m² à Angers,700,56,2,"49100 Angers, France",appartement,12
-3 chambres appartement de 92m² à Angers,1512,92,3,"Angers, Maine-et-Loire, France",appartement,16
-2 chambres appartement de 47m² à Angers,570,47,2,"49100 Angers, France",appartement,12
-1 chambre maison de 109m² à Angers,1690,109,1,"5 Boulevard du Maréchal Foch, 49100 Angers, France",maison,16
-2 chambres appartement de 50m² à Angers,745,50,2,"49100 Angers, France",appartement,15
-2 chambres appartement de 38m² à Angers,660,38,2,"49100 Angers, France",appartement,17
-1 chambre appartement de 25m² à Angers,531,25,1,"Rue de Villesicard, 49000 Angers, France",appartement,21
-3 chambres maison de 82m² à Angers,2600,82,3,"5 Allée Valériane, 49100 Angers, France",maison,32
-1 chambre appartement de 24m² à Angers,575,24,1,"13 Rue Roger Salengro, 49000 Angers, France",appartement,24
-1 chambre appartement de 21m² à Montpellier,321,21,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,15
-2 chambres appartement de 47m² à Montpellier,634,47,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,13
-1 chambre appartement de 19m² à Montpellier,383,19,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,20
-1 chambre appartement de 18m² à Montpellier,380,18,1,"Montpellier, Hérault, France",appartement,21
-1 chambre appartement de 15m² à Montpellier,399,15,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,27
-1 chambre appartement de 29m² à Montpellier,419,29,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,14
-2 chambres appartement de 48m² à Montpellier,524,48,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,11
-2 chambres appartement de 39m² à Montpellier,518,39,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,13
-1 chambre appartement de 23m² à Montpellier,370,23,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,16
-2 chambres appartement de 39m² à Montpellier,535,39,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,14
-3 chambres appartement de 68m² à Montpellier,882,68,3,"16 Place de la Comédie, 34062 Montpellier, France",appartement,13
-2 chambres appartement de 47m² à Montpellier,612,47,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,13
-3 chambres appartement de 70m² à Montpellier,789,70,3,"16 Place de la Comédie, 34062 Montpellier, France",appartement,11
-3 chambres appartement de 54m² à Montpellier,653,54,3,"16 Place de la Comédie, 34062 Montpellier, France",appartement,12
-3 chambres appartement de 56m² à Montpellier,609,56,3,"16 Place de la Comédie, 34062 Montpellier, France",appartement,11
-3 chambres maison de 60m² à Montpellier,907,60,3,"Montpellier, Hérault, France",maison,15
-1 chambre appartement de 28m² à Montpellier,509,28,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,18
-2 chambres appartement de 34m² à Montpellier,664,34,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,20
-1 chambre appartement de 28m² à Montpellier,559,28,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,20
-4 chambres appartement de 77m² à Montpellier,899,77,4,"16 Place de la Comédie, 34062 Montpellier, France",appartement,12
-2 chambres appartement de 28m² à Montpellier,498,28,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,18
-1 chambre appartement de 30m² à Montpellier,533,30,1,"Montpellier, Hérault, France",appartement,18
-1 chambre appartement de 23m² à Montpellier,380,23,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,17
-3 chambres appartement de 66m² à Montpellier,820,66,3,"Montpellier, Hérault, France",appartement,12
-2 chambres appartement de 34m² à Montpellier,579,34,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,17
-2 chambres appartement de 36m² à Montpellier,573,36,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,16
-1 chambre appartement de 22m² à Montpellier,460,22,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,21
-2 chambres appartement de 29m² à Montpellier,650,29,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,22
-1 chambre appartement de 23m² à Montpellier,384,23,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,17
-2 chambres appartement de 43m² à Montpellier,663,43,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,15
-3 chambres appartement de 56m² à Montpellier,789,56,3,"16 Place de la Comédie, 34062 Montpellier, France",appartement,14
-2 chambres appartement de 44m² à Montpellier,642,44,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,15
-1 chambre appartement de 69m² à Montpellier,460,69,1,"Préfecture de l'Hérault, 34 Place des Martyrs de la Résistance, 34062 Montpellier, France",appartement,7
-1 chambre appartement de 19m² à Montpellier,470,19,1,"Montpellier, Occitania, France",appartement,25
-2 chambres appartement de 36m² à Montpellier,642,36,2,"1 Place Georges Frêche, 34070 Montpellier, France",appartement,18
-3 chambres appartement de 49m² à Montpellier,775,49,3,"16 Place de la Comédie, 34062 Montpellier, France",appartement,16
-1 chambre appartement de 18m² à Montpellier,393,18,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,22
-1 chambre appartement de 18m² à Montpellier,410,18,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,23
-5 chambres appartement de 81m² à Montpellier,495,81,5,"Montpellier, Hérault, France",appartement,6
-1 chambre appartement de 20m² à Montpellier,421,20,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,21
-5 chambres appartement de 85m² à Montpellier,550,85,5,"Montpellier, Hérault, France",appartement,6
-1 chambre appartement de 23m² à Montpellier,440,23,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,19
-1 chambre appartement de 28m² à Montpellier,440,28,1,"150 Avenue Albert Einstein, 34000 Montpellier, France",appartement,16
-2 chambres appartement de 40m² à Montpellier,657,40,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,16
-3 chambres appartement de 54m² à Montpellier,710,54,3,"16 Place de la Comédie, 34062 Montpellier, France",appartement,13
-2 chambres appartement de 48m² à Montpellier,720,48,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,15
-1 chambre appartement de 19m² à Montpellier,406,19,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,21
-3 chambres appartement de 66m² à Montpellier,799,66,3,"Montpellier, Hérault, France",appartement,12
-4 chambres appartement de 94m² à Montpellier,1392,94,4,"Montpellier, Hérault, France",appartement,15
-1 chambre appartement de 31m² à Montpellier,527,31,1,"1 Place Georges Frêche, 34070 Montpellier, France",appartement,17
-1 chambre appartement de 7m² à Montpellier,105,7,1,"Montpellier, Hérault, France",appartement,15
-1 chambre appartement de 31m² à Montpellier,509,31,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,16
-1 chambre appartement de 21m² à Montpellier,541,21,1,"Préfecture de l'Hérault, 34 Place des Martyrs de la Résistance, 34062 Montpellier, France",appartement,26
-2 chambres appartement de 42m² à Montpellier,700,42,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,17
-1 chambre appartement de 15m² à Montpellier,383,15,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,26
-4 chambres maison de 93m² à Montpellier,1307,93,4,"Montpellier, Hérault, France",maison,14
-2 chambres appartement de 41m² à Montpellier,570,41,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,14
-2 chambres appartement de 46m² à Montpellier,540,46,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,12
-2 chambres appartement de 33m² à Montpellier,570,33,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,17
-3 chambres appartement de 73m² à Montpellier,1055,73,3,"16 Place de la Comédie, 34062 Montpellier, France",appartement,14
-2 chambres appartement de 45m² à Montpellier,700,45,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,16
-3 chambres appartement de 54m² à Montpellier,715,54,3,"16 Place de la Comédie, 34062 Montpellier, France",appartement,13
-4 chambres appartement de 75m² à Montpellier,1009,75,4,"16 Place de la Comédie, 34062 Montpellier, France",appartement,13
-1 chambre maison de 59m² à Montpellier,902,59,1,"310 Avenue de la Pompignane, 34006 Montpellier, France",maison,15
-1 chambre appartement de 28m² à Montpellier,437,28,1,"150 Avenue Albert Einstein, 34000 Montpellier, France",appartement,16
-1 chambre appartement de 28m² à Montpellier,582,28,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,21
-3 chambres appartement de 64m² à Montpellier,933,64,3,"16 Place de la Comédie, 34062 Montpellier, France",appartement,15
-3 chambres appartement de 67m² à Montpellier,799,67,3,"16 Place de la Comédie, 34062 Montpellier, France",appartement,12
-1 chambre appartement de 25m² à Montpellier,508,25,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,20
-1 chambre appartement de 23m² à Montpellier,462,23,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,20
-1 chambre appartement de 34m² à Montpellier,530,34,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,16
-4 chambres appartement de 74m² à Montpellier,808,74,4,"16 Place de la Comédie, 34062 Montpellier, France",appartement,11
-3 chambres appartement de 59m² à Montpellier,803,59,3,"16 Place de la Comédie, 34062 Montpellier, France",appartement,14
-3 chambres appartement de 68m² à Montpellier,733,68,3,"16 Place de la Comédie, 34062 Montpellier, France",appartement,11
-3 chambres appartement de 55m² à Montpellier,801,55,3,"16 Place de la Comédie, 34062 Montpellier, France",appartement,15
-1 chambre appartement de 34m² à Montpellier,566,34,1,"16 Place de la Comédie, 34062 Montpellier, France",appartement,17
-2 chambres appartement de 53m² à Montpellier,599,53,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,11
-4 chambres appartement de 93m² à Montpellier,1299,93,4,"16 Place de la Comédie, 34062 Montpellier, France",appartement,14
-2 chambres appartement de 43m² à Montpellier,652,43,2,"16 Place de la Comédie, 34062 Montpellier, France",appartement,15
-3 chambres appartement de 129m² à Montpellier,1004,129,3,"16 Place de la Comédie, 34062 Montpellier, France",appartement,8
-2 chambres appartement de 41m² à Toulouse,510,41,2,"8 Rue Georges Payan, 31100 Toulouse, France",appartement,12
-1 chambre appartement de 15m² à Toulouse,300,15,1,"17 Rue Belloc Cité, 31500 Toulouse, France",appartement,20
-1 chambre appartement de 10m² à Toulouse,400,10,1,"1 Place du Parlement, 31000 Toulouse, France",appartement,40
-2 chambres appartement de 43m² à Toulouse,482,43,2,"8 Rue Lefranc de Pompignan, 31400 Toulouse, France",appartement,11
-2 chambres appartement de 40m² à Toulouse,526,40,2,"19B Avenue Maurice Bourgès-Maunoury, 31200 Toulouse, France",appartement,13
-1 chambre studio de 22m² à Toulouse,550,22,1,"31000 Toulouse, France",studio,25
-3 chambres appartement de 53m² à Toulouse,620,53,3,"31 Rue du Cher, 31100 Toulouse, France",appartement,12
-1 chambre de 32m² à Toulouse,449,32,1,"Toulouse, Haute-Garonne, France",chambre,14
-3 chambres appartement de 57m² à Toulouse,759,57,3,"15 Rue de la Cartoucherie, 31300 Toulouse, France",appartement,13
-3 chambres appartement de 67m² à Toulouse,852,67,3,"58 Chemin de la Néboude, 31300 Toulouse, France",appartement,13
-1 chambre appartement de 12m² à Toulouse,325,12,1,"Cathédrale Saint-Étienne, 1 Impasse de la Préfecture, 31000 Toulouse, France",appartement,27
-1 chambre appartement de 45m² à Toulouse,730,45,1,"31200 Toulouse, France",appartement,16
-3 chambres appartement de 75m² à Toulouse,755,75,3,"31000 Toulouse, France",appartement,10
-1 chambre appartement de 13m² à Toulouse,440,13,1,"1 Rue de l'Yonne, 31100 Toulouse, France",appartement,34
-4 chambres maison de 74m² à Toulouse,1100,74,4,"88 Route de Saint-Simon, 31100 Toulouse, France",maison,15
-2 chambres appartement de 52m² à Toulouse,638,52,2,"33 Chemin de Lestang, 31100 Toulouse, France",appartement,12
-3 chambres maison de 377m² à Toulouse,950,377,3,"7 Rue Guillaume Ibos, 31200 Toulouse, France",maison,3
-3 chambres appartement de 51m² à Toulouse,700,51,3,"6 Rue Robert Aron, 31100 Toulouse, France",appartement,14
-1 chambre appartement de 21m² à Toulouse,500,21,1,"157 Chemin de la Salade Ponsan, 31400 Toulouse, France",appartement,24
-3 chambres maison de 70m² à Toulouse,774,70,3,"Toulouse Minimes, 165 Avenue des Minimes, 31200 Toulouse, France",maison,11
-3 chambres appartement de 63m² à Toulouse,723,63,3,"2 Rue Charlotte Delbo, 31200 Toulouse, France",appartement,11
-1 chambre appartement de 12m² à Toulouse,363,12,1,"20 Rue Thomas Edison, 31400 Toulouse, France",appartement,30
-4 chambres maison de 73m² à Toulouse,950,73,4,"Toulouse, Haute-Garonne, France",maison,13
-1 chambre studio de 18m² à Toulouse,530,18,1,"20 Rue d'Astorg, 31000 Toulouse, France",studio,29
-3 chambres appartement de 62m² à Toulouse,761,62,3,"Route de Revel, 31400 Toulouse, France",appartement,12
-1 chambre appartement de 12m² à Toulouse,350,12,1,"Cathédrale Saint-Étienne, 1 Impasse de la Préfecture, 31000 Toulouse, France",appartement,29
-3 chambres maison de 53m² à Toulouse,680,53,3,"237 Route de Saint-Simon, 31100 Toulouse, France",maison,13
-3 chambres appartement de 64m² à Toulouse,760,64,3,"Toulouse, Haute-Garonne, France",appartement,12
-3 chambres maison de 66m² à Toulouse,880,66,3,"Institut Régional de Formation Sanitaire et Sociale, 31 Chemin des Capelles, 31300 Toulouse, France",maison,13
-1 chambre appartement de 10m² à Toulouse,480,10,1,"79 Avenue de la Gloire, A0N9I0, 31500 Toulouse, France",appartement,48
-1 chambre appartement de 20m² à Toulouse,401,20,1,"5 Rue du Poids de l'Huile, 31000 Toulouse, France",appartement,20
-2 chambres maison de 30m² à Toulouse,596,30,2,"Toulouse Saint-Aubin, 1 Rue Charles Camichel, 31000 Toulouse, France",maison,20
-1 chambre appartement de 20m² à Toulouse,445,20,1,"30 Rue Caubère, 31400 Toulouse, France",appartement,22
-2 chambres appartement de 34m² à Toulouse,570,34,2,"150 Boulevard Déodat de Séverac, 31300 Toulouse, France",appartement,17
-1 chambre appartement de 14m² à Toulouse,440,14,1,"1 Rue de l'Yonne, 31100 Toulouse, France",appartement,31
-3 chambres appartement de 64m² à Toulouse,772,64,3,"33 Chemin de Lestang, 31100 Toulouse, France",appartement,12
-1 chambre appartement de 25m² à Toulouse,594,25,1,"Rue Béteille, 31500 Toulouse, France",appartement,24
-2 chambres appartement de 47m² à Toulouse,730,47,2,"18 Rue du Général Giraud, 31200 Toulouse, France",appartement,16
-4 chambres appartement de 104m² à Toulouse,1800,104,4,"Toulouse, Haute-Garonne, France",appartement,17
-1 chambre appartement de 18m² à Toulouse,443,18,1,"2 Impasse Louis Tharaud, 31300 Toulouse, France",appartement,25
-4 chambres maison de 86m² à Toulouse,963,86,4,"2 Rue Jean Weber, 31100 Toulouse, France",maison,11
-4 chambres appartement de 87m² à Toulouse,1020,87,4,"Toulouse, Haute-Garonne, France",appartement,12
-1 chambre de 35m² à Toulouse,570,35,1,"3 Impasse André Real, 31200 Toulouse, France",chambre,16
-1 chambre appartement de 27m² à Toulouse,398,27,1,"64B Rue du Faubourg Bonnefoy, 31500 Toulouse, France",appartement,15
-4 chambres appartement de 78m² à Toulouse,825,78,4,"Institut Régional de Formation Sanitaire et Sociale, 31 Chemin des Capelles, 31300 Toulouse, France",appartement,11
-1 chambre appartement de 10m² à Toulouse,420,10,1,"208 Avenue de Grande Bretagne, 31300 Toulouse, France",appartement,42
-3 chambres appartement de 57m² à Toulouse,739,57,3,"3 Rue André Vasseur, 31200 Toulouse, France",appartement,13
-4 chambres appartement de 67m² à Toulouse,832,67,4,"41 Avenue de Grande Bretagne, 31300 Toulouse, France",appartement,12
-2 chambres appartement de 36m² à Toulouse,464,36,2,"Institut Régional de Formation Sanitaire et Sociale, 31 Chemin des Capelles, 31300 Toulouse, France",appartement,13
-4 chambres appartement de 84m² à Toulouse,990,84,4,"Toulouse, Haute-Garonne, France",appartement,12
-2 chambres appartement de 45m² à Toulouse,622,45,2,"25 Rue de Bagnolet, 31100 Toulouse, France",appartement,14
-3 chambres appartement de 61m² à Toulouse,818,61,3,"83 Route de Revel, 31400 Toulouse, France",appartement,13
-1 chambre appartement de 20m² à Toulouse,500,20,1,"Institut Régional de Formation Sanitaire et Sociale, 31 Chemin des Capelles, 31300 Toulouse, France",appartement,25
-1 chambre appartement de 94m² à Toulouse,737,94,1,"8 Rue du Poids de l'Huile, 31000 Toulouse, France",appartement,8
-1 chambre appartement de 28m² à Toulouse,471,28,1,"3 Barrière de Bayonne, 31300 Toulouse, France",appartement,17
-1 chambre appartement de 17m² à Toulouse,445,17,1,"21 Rue Bernard Mulé, 31400 Toulouse, France",appartement,26
-3 chambres appartement de 72m² à Toulouse,841,72,3,"30 Rue Bernard de Ventadour, 31300 Toulouse, France",appartement,12
-1 chambre appartement de 21m² à Toulouse,455,21,1,"14 Chemin du Vallon, 31400 Toulouse, France",appartement,22
-1 chambre appartement de 59m² à Toulouse,607,59,1,"2 Rue du Poids de l'Huile, 31000 Toulouse, France",appartement,10
-4 chambres appartement de 11m² à Toulouse,350,11,4,"60 Allée de Bellefontaine, 31100 Toulouse, France",appartement,32
-2 chambres appartement de 40m² à Toulouse,545,40,2,"Toulouse Croix Daurade, Rue Francis Lopez, 31200 Toulouse, France",appartement,14
-4 chambres maison de 84m² à Toulouse,1200,84,4,"Toulouse, Haute-Garonne, France",maison,14
-2 chambres appartement de 40m² à Toulouse,590,40,2,"Toulouse, Haute-Garonne, France",appartement,15
-1 chambre de 25m² à Toulouse,400,25,1,"3 Allée de la Limagne, 31300 Toulouse, France",chambre,16
-2 chambres maison de 48m² à Toulouse,767,48,2,"31400 Toulouse, France",maison,16
-3 chambres appartement de 61m² à Toulouse,740,61,3,"Toulouse, Haute-Garonne, France",appartement,12
-1 chambre appartement de 14m² à Toulouse,350,14,1,"Institut Régional de Formation Sanitaire et Sociale, 31 Chemin des Capelles, 31300 Toulouse, France",appartement,25
-1 chambre appartement de 34m² à Toulouse,695,34,1,"18 Place du Salin, 31000 Toulouse, France",appartement,20
-2 chambres appartement de 35m² à Toulouse,597,35,2,"35 Avenue de Grande Bretagne, 31300 Toulouse, France",appartement,17
-1 chambre appartement de 19m² à Toulouse,410,19,1,"1 Impasse Hugues Panassié, 31300 Toulouse, France",appartement,22
-1 chambre appartement de 12m² à Toulouse,454,12,1,"146 Rue Vestrepain, 31300 Toulouse, France",appartement,38
-2 chambres appartement de 38m² à Toulouse,573,38,2,"Toulouse-Montaudran, Chemin Carrosse, 31400 Toulouse, France",appartement,15
-4 chambres maison de 86m² à Toulouse,963,86,4,"Institut Régional de Formation Sanitaire et Sociale, 31 Chemin des Capelles, 31300 Toulouse, France",maison,11
-1 chambre appartement de 18m² à Toulouse,402,18,1,"Institut Régional de Formation Sanitaire et Sociale, 31 Chemin des Capelles, 31300 Toulouse, France",appartement,22
-3 chambres appartement de 54m² à Toulouse,767,54,3,"8 Grande Rue Saint-Michel, 31400 Toulouse, France",appartement,14
-3 chambres appartement de 62m² à Toulouse,795,62,3,"1 Place Marcel Bouilloux-Lafont, 31400 Toulouse, France",appartement,13
-3 chambres appartement de 61m² à Toulouse,745,61,3,"Toulouse Minimes, 165 Avenue des Minimes, 31200 Toulouse, France",appartement,12
-1 chambre appartement de 21m² à Toulouse,497,21,1,"Institut Régional de Formation Sanitaire et Sociale, 31 Chemin des Capelles, 31300 Toulouse, France",appartement,24
-4 chambres appartement de 83m² à Toulouse,996,83,4,"20 Rue Fabian, 31200 Toulouse, France",appartement,12
-4 chambres appartement de 91m² à Toulouse,1398,91,4,"1 Rue Montardy, 31000 Toulouse, France",appartement,15
-1 chambre appartement de 22m² à Nice,585,22,1,"Société Générale, 4 Place du Général de Gaulle, 06108 Nice, France",appartement,27
-2 chambres appartement de 34m² à Nice,660,34,2,"06000 Nice, France",appartement,19
-1 chambre de 26m² à Nice,493,26,1,"Nice, Maritime Alps, France",chambre,19
-2 chambres appartement de 38m² à Nice,549,38,2,"06000 Nice, France",appartement,14
-2 chambres appartement de 35m² à Nice,770,35,2,"16 Rue Saint-Honoré, 06000 Nice, France",appartement,22
-1 chambre appartement de 25m² à Nice,555,25,1,"C&A, Boulevard Dubouchage, 06000 Nice, France",appartement,22
-1 chambre appartement de 22m² à Nice,595,22,1,"60 Boulevard Franck Pilatte, 06300 Nice, France",appartement,27
-2 chambres appartement de 22m² à Nice,698,22,2,"Nice, Maritime Alps, France",appartement,32
-1 chambre studio de 18m² à Nice,765,18,1,"11 Rue Alexandre Mari, 06000 Nice, France",studio,42
-1 chambre studio de 21m² à Nice,619,21,1,"52 Rue de la Buffa, 06000 Nice, France",studio,29
-1 chambre appartement de 26m² à Nice,595,26,1,"06000 Nice, France",appartement,23
-4 chambres appartement de 66m² à Nice,1250,66,4,"Parc Autos Parc Phoenix, 06200 Nice, France",appartement,19
-2 chambres appartement de 65m² à Nice,250,65,2,"Avenue des Arènes de Cimiez, 06000 Nice, France",appartement,4
-1 chambre appartement de 25m² à Nice,500,25,1,"Nice, Maritime Alps, France",appartement,20
-3 chambres appartement de 44m² à Nice,950,44,3,"Nice, Maritime Alps, France",appartement,22
-1 chambre studio de 35m² à Nice,610,35,1,"Nice, Maritime Alps, France",studio,17
-1 chambre appartement de 21m² à Nice,700,21,1,"Nice-Ville, Parvis de la Gare, 06000 Nice, France",appartement,33
-1 chambre appartement de 20m² à Nice,537,20,1,"Nice, Maritime Alps, France",appartement,27
-2 chambres appartement de 36m² à Nice,675,36,2,"Nice Notre-Dame, Avenue Georges Clemenceau, 06000 Nice, France",appartement,19
-3 chambres appartement de 68m² à Nice,1250,68,3,"Rue de Chateauneuf, 06000 Nice, France",appartement,18
-2 chambres appartement de 37m² à Nice,650,37,2,"06000 Nice, France",appartement,18
-2 chambres appartement de 55m² à Nice,855,55,2,"Nice-Ville, Parvis de la Gare, 06000 Nice, France",appartement,16
-1 chambre appartement de 19m² à Nice,575,19,1,"Nice, Maritime Alps, France",appartement,30
-3 chambres appartement de 56m² à Nice,882,56,3,"Nice, Maritime Alps, France",appartement,16
-1 chambre appartement de 20m² à Nice,537,20,1,"58 Avenue de la Bornala, 06200 Nice, France",appartement,27
-3 chambres appartement de 81m² à Nice,975,81,3,"Opéra de Nice, Rue Milton Robbins, 06000 Nice, France",appartement,12
-3 chambres appartement de 64m² à Nice,1180,64,3,"Nice, Maritime Alps, France",appartement,18
-3 chambres appartement de 84m² à Nice,1290,84,3,"Centre d'incendie et de secours Nice-Nord, 38 Boulevard Henri Sappia, 06100 Nice, France",appartement,15
-2 chambres appartement de 46m² à Nice,945,46,2,"Nice - CP, Rue Prince Maurice, 06000 Nice, France",appartement,21
-1 chambre appartement de 10m² à Nice,500,10,1,"06000 Nice, France",appartement,50
-1 chambre appartement de 16m² à Nice,690,16,1,"Orpi, Rue de France, 06000 Nice, France",appartement,43
-4 chambres maison de 125m² à Nice,3800,125,4,"55 Boulevard du Mont-Boron, 06300 Nice, France",maison,30
-2 chambres appartement de 40m² à Nice,925,40,2,"144B Rue de France, 06000 Nice, France",appartement,23
-1 chambre appartement de 22m² à Nice,620,22,1,"Opéra de Nice, Rue Milton Robbins, 06000 Nice, France",appartement,28
-2 chambres appartement de 52m² à Nice,1175,52,2,"Les Glaïeuls, 27 Chemin du Vinaigrier, 06300 Victoria Park, France",appartement,23
-1 chambre appartement de 26m² à Nice,610,26,1,"06000 Nice, France",appartement,23
-2 chambres appartement de 34m² à Nice,1390,34,2,"Palais d'Orient, Promenade des Anglais, 06000 Nice, France",appartement,41
-1 chambre studio de 16m² à Nice,600,16,1,"Rue Dominique Paez, 06206 Nice, France",studio,38
-3 chambres appartement de 66m² à Nice,1300,66,3,"Nice, Maritime Alps, France",appartement,20
-4 chambres appartement de 103m² à Nice,1200,103,4,"Nice-Ville, Parvis de la Gare, 06000 Nice, France",appartement,12
-3 chambres appartement de 83m² à Nice,1150,83,3,"Nice, Maritime Alps, France",appartement,14
-1 chambre de 70m² à Nice,650,70,1,"48 Avenue Jean Médecin, 06000 Nice, France",chambre,9
-2 chambres appartement de 49m² à Nice,832,49,2,"Allée Privée Rose de France, 06206 Nice, France",appartement,17
-1 chambre de 78m² à Nice,550,78,1,"Nice, Maritime Alps, France",chambre,7
-1 chambre appartement de 20m² à Nice,660,20,1,"Nice-Ville, Parvis de la Gare, 06000 Nice, France",appartement,33
-1 chambre maison de 22m² à Nice,350,22,1,"Vieux Nice, Nice, Maritime Alps, France",maison,16
-2 chambres appartement de 37m² à Nice,728,37,2,"Nice, Maritime Alps, France",appartement,20
-1 chambre studio de 18m² à Nice,550,18,1,"Avenue de Gairaut, 06106 Nice, France",studio,31
-1 chambre appartement de 17m² à Nice,500,17,1,"62 Chemin du Haut Magnan, 06000 Nice, France",appartement,29
-3 chambres appartement de 56m² à Nice,882,56,3,"Nice, Maritime Alps, France",appartement,16
-4 chambres appartement de 174m² à Nice,12000,174,4,"5 Rue de l'Hôtel de Ville, 06300 Nice, France",appartement,69
-3 chambres appartement de 74m² à Nice,1208,74,3,"Le Stade, 2 Rue des Chevaliers de Malte, 06100 Nice, France",appartement,16
-3 chambres appartement de 71m² à Nice,1180,71,3,"06000 Nice, France",appartement,17
-2 chambres appartement de 32m² à Nice,820,32,2,"Nice-Ville, Parvis de la Gare, 06000 Nice, France",appartement,26
-2 chambres appartement de 45m² à Nice,737,45,2,"Nice, Maritime Alps, France",appartement,16
-3 chambres appartement de 61m² à Nice,1130,61,3,"06200 Nice, France",appartement,19
-2 chambres appartement de 38m² à Nice,731,38,2,"06300 Nice, France",appartement,19
-1 chambre appartement de 25m² à Nice,687,25,1,"Nice, Maritime Alps, France",appartement,27
-3 chambres appartement de 67m² à Nice,1100,67,3,"6 Rue Georges Picard, 06300 Nice, France",appartement,16
-1 chambre appartement de 20m² à Nice,537,20,1,"06200 Nice, France",appartement,27
-4 chambres appartement de 103m² à Nice,1700,103,4,"1 Avenue Auguste Vérola, 06200 Nice, France",appartement,17
-2 chambres appartement de 34m² à Nice,850,34,2,"Nice, Maritime Alps, France",appartement,25
-3 chambres appartement de 56m² à Nice,1099,56,3,"Nice, Maritime Alps, France",appartement,20
-2 chambres appartement de 83m² à Nice,1640,83,2,"23 Rue de Rivoli, 06000 Nice, France",appartement,20
-2 chambres appartement de 44m² à Nice,905,44,2,"Nice, Maritime Alps, France",appartement,21
-4 chambres maison de 89m² à Nice,2200,89,4,"3 Avenue Sévigné, 06100 Nice, France",maison,25
-5 chambres appartement de 158m² à Nice,3400,158,5,"Nice, Maritime Alps, France",appartement,22
-1 chambre appartement de 15m² à Nice,540,15,1,"Nice, Maritime Alps, France",appartement,36
-4 chambres appartement de 104m² à Nice,2500,104,4,"06200 Corniche Fleurie, France",appartement,24
-2 chambres appartement de 61m² à Nice,1368,61,2,"91 Avenue de Gairaut, 06100 Nice, France",appartement,22
-1 chambre appartement de 10m² à Nice,600,10,1,"Nice, Maritime Alps, France",appartement,60
-1 chambre appartement de 21m² à Nice,635,21,1,"310 Avenue Jules Ferry, 83130 La Garde, France",appartement,30
-3 chambres appartement de 140m² à Nice,2663,140,3,"Nice, Maritime Alps, France",appartement,19
-2 chambres appartement de 59m² à Nice,839,59,2,"Nice, Maritime Alps, France",appartement,14
-1 chambre de 110m² à Nice,600,110,1,"84 Avenue Sainte-Marguerite, 06200 Nice, France",chambre,5
-1 chambre studio de 23m² à Nice,675,23,1,"31bis Rue Michel Ange, 06100 Nice, France",studio,29
-2 chambres appartement de 41m² à Nice,704,41,2,"Nice Valley, Saint-Isidore, Nice, Maritime Alps, France",appartement,17
-2 chambres appartement de 59m² à Nice,1200,59,2,"Nice, Maritime Alps, France",appartement,20
-3 chambres appartement de 63m² à Nice,1295,63,3,"C&A, Boulevard Dubouchage, 06000 Nice, France",appartement,21
-3 chambres appartement de 76m² à Nice,1235,76,3,"48 Avenue Jean Médecin, 06000 Nice, France",appartement,16
-1 chambre appartement de 11m² à Strasbourg,340,11,1,"9 Rue Brûlée, 67000 Strasbourg, France",appartement,31
-2 chambres appartement de 33m² à Strasbourg,513,33,2,"Strasbourg, Bas-Rhin, France",appartement,16
-1 chambre appartement de 24m² à Strasbourg,330,24,1,"10 Rue Catherine Pozzi, 67200 Strasbourg, France",appartement,14
-1 chambre appartement de 13m² à Strasbourg,249,13,1,"Strasbourg, Bas-Rhin, France",appartement,19
-4 chambres appartement de 12m² à Strasbourg,345,12,4,"67100 Strasbourg, France",appartement,29
-3 chambres appartement de 66m² à Strasbourg,922,66,3,"Strasbourg, Bas-Rhin, France",appartement,14
-1 chambre appartement de 16m² à Strasbourg,367,16,1,"67200 Strasbourg, France",appartement,23
-1 chambre appartement de 30m² à Strasbourg,527,30,1,"Strasbourg, Bas-Rhin, France",appartement,18
-1 chambre appartement de 21m² à Strasbourg,480,21,1,"Strasbourg, Bas-Rhin, France",appartement,23
-1 chambre appartement de 12m² à Strasbourg,486,12,1,"67100 Strasbourg, France",appartement,40
-2 chambres appartement de 39m² à Strasbourg,651,39,2,"Strasbourg, Bas-Rhin, France",appartement,17
-1 chambre appartement de 24m² à Strasbourg,606,24,1,"Strasbourg, Bas-Rhin, France",appartement,25
-2 chambres appartement de 44m² à Strasbourg,738,44,2,"Strasbourg, Bas-Rhin, France",appartement,17
-4 chambres appartement de 89m² à Strasbourg,1000,89,4,"Strasbourg, Bas-Rhin, France",appartement,11
-2 chambres appartement de 44m² à Strasbourg,763,44,2,"Strasbourg, Bas-Rhin, France",appartement,17
-1 chambre appartement de 30m² à Strasbourg,401,30,1,"10 Rue Catherine Pozzi, 67200 Strasbourg, France",appartement,13
-3 chambres appartement de 57m² à Strasbourg,840,57,3,"3 b Rue des Frères Eberts, 67029 Strasbourg, France",appartement,15
-3 chambres appartement de 56m² à Strasbourg,764,56,3,"9 Rue de Zürich, 67000 Strasbourg, France",appartement,14
-5 chambres appartement de 134m² à Strasbourg,1470,134,5,"7 Allée de la Robertsau, 67091 Strasbourg, France",appartement,11
-1 chambre appartement de 19m² à Strasbourg,633,19,1,"208 Avenue de Colmar, 67100 Strasbourg, France",appartement,33
-1 chambre appartement de 32m² à Strasbourg,480,32,1,"67200 Strasbourg, France",appartement,15
-3 chambres appartement de 62m² à Strasbourg,795,62,3,"Strasbourg, Bas-Rhin, France",appartement,13
-2 chambres appartement de 60m² à Strasbourg,709,60,2,"Strasbourg, Bas-Rhin, France",appartement,12
-3 chambres appartement de 63m² à Strasbourg,970,63,3,"9 Rue Brûlée, 67000 Strasbourg, France",appartement,15
-2 chambres appartement de 40m² à Strasbourg,616,40,2,"21 Rue de Calais, 67026 Strasbourg, France",appartement,15
-1 chambre appartement de 19m² à Strasbourg,430,19,1,"Strasbourg, Bas-Rhin, France",appartement,23
-1 chambre appartement de 16m² à Strasbourg,600,16,1,"3 Rue du Parc, 67081 Strasbourg, France",appartement,38
-1 chambre appartement de 11m² à Strasbourg,416,11,1,"21 Rue de Calais, 67026 Strasbourg, France",appartement,38
-1 chambre appartement de 13m² à Strasbourg,560,13,1,"12 Rue Sainte-Catherine, 67000 Strasbourg, France",appartement,43
-2 chambres appartement de 44m² à Strasbourg,875,44,2,"Strasbourg, Bas-Rhin, France",appartement,20
-4 chambres appartement de 80m² à Strasbourg,845,80,4,"10 Rue de la Coudreuse, 67200 Strasbourg, France",appartement,11
-1 chambre appartement de 87m² à Strasbourg,809,87,1,"10 Rue Catherine Pozzi, 67200 Strasbourg, France",appartement,9
-1 chambre appartement de 13m² à Strasbourg,490,13,1,"16 Rue de Rome, 67000 Strasbourg, France",appartement,38
-1 chambre appartement de 122m² à Strasbourg,700,122,1,"Strasbourg, Bas-Rhin, France",appartement,6
-6 chambres maison de 170m² à Strasbourg,1313,170,6,"3 Rue du Parc, 67081 Strasbourg, France",maison,8
-2 chambres appartement de 41m² à Strasbourg,690,41,2,"32 Rue de Soultz, 67100 Strasbourg, France",appartement,17
-1 chambre de 68m² à Strasbourg,480,68,1,"Avenue de Vitry-le-François, 67017 Strasbourg, France",chambre,7
-5 chambres appartement de 102m² à Strasbourg,1050,102,5,"1 Rue Christophe Thomas Walliser, 67201 Strasbourg, France",appartement,10
-3 chambres appartement de 44m² à Strasbourg,690,44,3,"67200 Strasbourg, France",appartement,16
-3 chambres appartement de 64m² à Strasbourg,906,64,3,"Strasbourg, Bas-Rhin, France",appartement,14
-4 chambres appartement de 12m² à Strasbourg,385,12,4,"67100 Strasbourg, France",appartement,32
-4 chambres appartement de 81m² à Strasbourg,995,81,4,"Strasbourg, Bas-Rhin, France",appartement,12
-1 chambre appartement de 16m² à Strasbourg,448,16,1,"3 Rue du Parc, 67081 Strasbourg, France",appartement,28
-4 chambres appartement de 110m² à Strasbourg,1035,110,4,"21 Rue de Calais, 67026 Strasbourg, France",appartement,9
-1 chambre appartement de 12m² à Strasbourg,350,12,1,"Strasbourg, Bas-Rhin, France",appartement,29
-3 chambres appartement de 62m² à Strasbourg,795,62,3,"67200 Strasbourg, France",appartement,13
-1 chambre appartement de 16m² à Strasbourg,600,16,1,"3 Rue du Parc, 67081 Strasbourg, France",appartement,38
-1 chambre appartement de 28m² à Strasbourg,590,28,1,"Strasbourg, Bas-Rhin, France",appartement,21
-5 chambres appartement de 110m² à Strasbourg,1200,110,5,"Strasbourg, Bas-Rhin, France",appartement,11
-1 chambre appartement de 20m² à Strasbourg,633,20,1,"45 Avenue du Rhin, 67100 Strasbourg, France",appartement,32
-1 chambre appartement de 20m² à Strasbourg,606,20,1,"Strasbourg, Bas-Rhin, France",appartement,30
-4 chambres appartement de 100m² à Strasbourg,1260,100,4,"67000 Strasbourg, France",appartement,13
-2 chambres appartement de 46m² à Strasbourg,825,46,2,"48 c Rue de Sélestat, 67100 Strasbourg, France",appartement,18
-2 chambres appartement de 46m² à Strasbourg,804,46,2,"327 Route de la Wantzenau, 67015 Strasbourg, France",appartement,17
-1 chambre appartement de 24m² à Strasbourg,590,24,1,"Lady Sushi Strasbourg, 74 Avenue de la Forêt Noire, 67085 Strasbourg, France",appartement,25
-1 chambre appartement de 15m² à Strasbourg,537,15,1,"3 Rue du Parc, 67081 Strasbourg, France",appartement,36
-1 chambre appartement de 45m² à Strasbourg,617,45,1,"10 Rue Catherine Pozzi, 67200 Strasbourg, France",appartement,14
-4 chambres appartement de 87m² à Strasbourg,929,87,4,"21 Rue de Calais, 67026 Strasbourg, France",appartement,11
-2 chambres appartement de 52m² à Strasbourg,846,52,2,"67100 Strasbourg, France",appartement,16
-3 chambres appartement de 76m² à Strasbourg,899,76,3,"3 Rue du Parc, 67081 Strasbourg, France",appartement,12
-1 chambre appartement de 54m² à Strasbourg,731,54,1,"10 Rue Catherine Pozzi, 67200 Strasbourg, France",appartement,14
-1 chambre appartement de 28m² à Strasbourg,600,28,1,"Strasbourg, Bas-Rhin, France",appartement,21
-2 chambres appartement de 34m² à Strasbourg,660,34,2,"67100 Strasbourg, France",appartement,19
-2 chambres appartement de 58m² à Strasbourg,820,58,2,"Strasbourg, Bas-Rhin, France",appartement,14
-2 chambres appartement de 41m² à Strasbourg,746,41,2,"21 Rue de Calais, 67026 Strasbourg, France",appartement,18
-3 chambres appartement de 64m² à Strasbourg,895,64,3,"67200 Strasbourg, France",appartement,14
-2 chambres appartement de 34m² à Strasbourg,660,34,2,"Strasbourg, Bas-Rhin, France",appartement,19
-5 chambres appartement de 142m² à Strasbourg,3690,142,5,"7b Rue du Général Picquart, 67000 Strasbourg, France",appartement,26
-3 chambres appartement de 64m² à Strasbourg,1340,64,3,"67 Rue de Zürich, 67000 Strasbourg, France",appartement,21
-3 chambres appartement de 101m² à Strasbourg,1080,101,3,"Strasbourg, Bas-Rhin, France",appartement,11
-3 chambres appartement de 69m² à Strasbourg,870,69,3,"Strasbourg, Bas-Rhin, France",appartement,13
-2 chambres appartement de 41m² à Strasbourg,1302,41,2,"14 Rue des Balayeurs, 67084 Strasbourg, France",appartement,32
-1 chambre appartement de 48m² à Strasbourg,660,48,1,"10 Rue Catherine Pozzi, 67200 Strasbourg, France",appartement,14
-2 chambres appartement de 33m² à Strasbourg,713,33,2,"Strasbourg, Bas-Rhin, France",appartement,22
-4 chambres appartement de 70m² à Strasbourg,945,70,4,"67100 Strasbourg, France",appartement,14
-5 chambres appartement de 141m² à Strasbourg,2090,141,5,"5 Rue de l'Observatoire, 67085 Strasbourg, France",appartement,15
-3 chambres appartement de 64m² à Strasbourg,785,64,3,"13 Rue Voltaire, 67800 Bischheim, France",appartement,12
-2 chambres appartement de 39m² à Strasbourg,731,39,2,"Strasbourg, Bas-Rhin, France",appartement,19
-3 chambres appartement de 57m² à Strasbourg,839,57,3,"67100 Strasbourg, France",appartement,15
-3 chambres appartement de 69m² à Strasbourg,870,69,3,"67100 Strasbourg, France",appartement,13
-1 chambre appartement de 32m² à Bordeaux,400,32,1,"104 Avenue des Quarante Journaux, 33300 Bordeaux, France",appartement,12
-1 chambre appartement de 28m² à Bordeaux,633,28,1,"124 Rue Charles Martin, 33300 Bordeaux, France",appartement,23
-1 chambre appartement de 19m² à Bordeaux,358,19,1,"10 Rue de Nantes, 33300 Bordeaux, France",appartement,19
-1 chambre appartement de 40m² à Bordeaux,590,40,1,"Bordeaux, Gironde, France",appartement,15
-2 chambres appartement de 50m² à Bordeaux,860,50,2,"Air France, 37 Allées de Tourny, 33000 Bordeaux, France",appartement,17
-1 chambre appartement de 50m² à Bordeaux,895,50,1,"Bordeaux Centre, Bordeaux, Gironde, France",appartement,18
-3 chambres appartement de 61m² à Bordeaux,990,61,3,"33300 Bordeaux, France",appartement,16
-1 chambre appartement de 12m² à Bordeaux,420,12,1,"Bordeaux, Gironde, France",appartement,35
-1 chambre appartement de 17m² à Bordeaux,365,17,1,"Bordeaux, Gironde, France",appartement,21
-2 chambres appartement de 39m² à Bordeaux,635,39,2,"Air France, 37 Allées de Tourny, 33000 Bordeaux, France",appartement,16
-3 chambres appartement de 30m² à Bordeaux,600,30,3,"46 Rue Bonnefin, 33100 Bordeaux, France",appartement,20
-4 chambres appartement de 32m² à Bordeaux,644,32,4,"18 Avenue Marcel Dassault, 33300 Bordeaux, France",appartement,20
-1 chambre maison de 37m² à Bordeaux,695,37,1,"25 Rue Montméjean, 33100 Bordeaux, France",maison,19
-1 chambre studio de 20m² à Bordeaux,565,20,1,"29 Rue Magendie, 33000 Bordeaux, France",studio,28
-1 chambre studio de 21m² à Bordeaux,545,21,1,"9 Impasse Rateau, 33800 Bordeaux, France",studio,26
-3 chambres appartement de 65m² à Bordeaux,890,65,3,"Bordeaux, Gironde, France",appartement,14
-5 chambres appartement de 28m² à Bordeaux,520,28,5,"90 Rue Pierre Trébod, 33300 Bordeaux, France",appartement,19
-2 chambres appartement de 33m² à Bordeaux,598,33,2,"9 Rue Cantemerle, 33000 Bordeaux, France",appartement,18
-1 chambre de 21m² à Bordeaux,430,21,1,"131 Rue Stéhélin, 33200 Bordeaux, France",chambre,20
-1 chambre de 21m² à Bordeaux,430,21,1,"131 Rue Stéhélin, 33200 Bordeaux, France",chambre,20
-3 chambres appartement de 53m² à Bordeaux,792,53,3,"Bordeaux, Gironde, France",appartement,15
-1 chambre studio de 25m² à Bordeaux,700,25,1,"28 Rue Lajarte, 33800 Bordeaux, France",studio,28
-1 chambre appartement de 35m² à Bordeaux,650,35,1,"124 Rue Charles Martin, 33300 Bordeaux, France",appartement,19
-1 chambre appartement de 20m² à Bordeaux,450,20,1,"Bordeaux, Gironde, France",appartement,22
-1 chambre appartement de 29m² à Bordeaux,546,29,1,"10 Rue de Nantes, 33300 Bordeaux, France",appartement,19
-3 chambres appartement de 65m² à Bordeaux,999,65,3,"201 Quai de Brazza, 33100 Bordeaux, France",appartement,15
-3 chambres appartement de 87m² à Bordeaux,900,87,3,"Bordeaux, Gironde, France",appartement,10
-2 chambres appartement de 34m² à Bordeaux,750,34,2,"Bordeaux, Gironde, France",appartement,22
-2 chambres appartement de 33m² à Bordeaux,713,33,2,"Air France, 37 Allées de Tourny, 33000 Bordeaux, France",appartement,22
-4 chambres appartement de 29m² à Bordeaux,590,29,4,"37 Avenue Thiers, 33100 Bordeaux, France",appartement,20
-6 chambres maison de 33m² à Bordeaux,660,33,6,"41 Rue du Commandant Charcot, 33000 Bordeaux, France",maison,20
-3 chambres appartement de 30m² à Bordeaux,590,30,3,"46 Rue Bonnefin, 33100 Bordeaux, France",appartement,20
-2 chambres appartement de 41m² à Bordeaux,800,41,2,"4 Rue de Cursol, 33000 Bordeaux, France",appartement,20
-4 chambres appartement de 32m² à Bordeaux,644,32,4,"22 Cours de Québec, 33300 Bordeaux, France",appartement,20
-3 chambres appartement de 60m² à Bordeaux,944,60,3,"24 Rue des Maraichers, 33800 Bordeaux, France",appartement,16
-6 chambres maison de 41m² à Bordeaux,760,41,6,"41 Rue du Commandant Charcot, 33000 Bordeaux, France",maison,19
-3 chambres appartement de 65m² à Bordeaux,787,65,3,"12 Cours de Québec, 33300 Bordeaux, France",appartement,12
-2 chambres appartement de 46m² à Bordeaux,720,46,2,"103 Rue Belleville, 33000 Bordeaux, France",appartement,16
-1 chambre appartement de 7m² à Bordeaux,568,7,1,"Bordeaux, Gironde, France",appartement,81
-1 chambre appartement de 20m² à Bordeaux,450,20,1,"Bordeaux, Gironde, France",appartement,22
-1 chambre studio de 20m² à Bordeaux,600,20,1,"8 Rue André Dumercq, 33000 Bordeaux, France",studio,30
-3 chambres maison de 59m² à Bordeaux,950,59,3,"Rue des Orangers, 33200 Bordeaux, France",maison,16
-2 chambres appartement de 33m² à Bordeaux,660,33,2,"Bordeaux, Gironde, France",appartement,20
-1 chambre de 26m² à Bordeaux,525,26,1,"Impasse Albert Touzin, 33300 Bordeaux, France",chambre,20
-1 chambre appartement de 43m² à Bordeaux,1050,43,1,"Air France, 37 Allées de Tourny, 33000 Bordeaux, France",appartement,24
-3 chambres appartement de 63m² à Bordeaux,890,63,3,"108bis Cours Saint Louis, 33300 Bordeaux, France",appartement,14
-2 chambres appartement de 35m² à Bordeaux,520,35,2,"Air France, 37 Allées de Tourny, 33000 Bordeaux, France",appartement,15
-2 chambres maison de 50m² à Bordeaux,910,50,2,"Projet Centre médico-scolaire Bordeaux Caudéran, 33200 Bordeaux, France",maison,18
-4 chambres appartement de 100m² à Bordeaux,1685,100,4,"Bordeaux Sud, Bordeaux, Gironde, France",appartement,17
-6 chambres appartement de 114m² à Bordeaux,545,114,6,"Air France, 37 Allées de Tourny, 33000 Bordeaux, France",appartement,5
-1 chambre appartement de 14m² à Bordeaux,490,14,1,"33800 Bordeaux, France",appartement,35
-1 chambre appartement de 68m² à Bordeaux,1290,68,1,"10 Rue de Nantes, 33300 Bordeaux, France",appartement,19
-5 chambres appartement de 30m² à Bordeaux,570,30,5,"31 Cours de Québec, 33300 Bordeaux, France",appartement,19
-4 chambres appartement de 124m² à Bordeaux,1500,124,4,"179 Cours du Médoc, 33300 Bordeaux, France",appartement,12
-5 chambres appartement de 27m² à Bordeaux,550,27,5,"90 Rue Pierre Trébod, 33300 Bordeaux, France",appartement,20
-3 chambres appartement de 142m² à Bordeaux,3800,142,3,"7 Place Gambetta, 33000 Bordeaux, France",appartement,27
-4 chambres appartement de 34m² à Bordeaux,644,34,4,"17 Avenue André Reinson, 33300 Bordeaux, France",appartement,19
-4 chambres appartement de 30m² à Bordeaux,590,30,4,"6 Boulevard Albert 1er, 33800 Bordeaux, France",appartement,20
-2 chambres maison de 38m² à Bordeaux,876,38,2,"Bordeaux Chartrons, Rue Sicard, 33000 Bordeaux, France",maison,23
-1 chambre de 120m² à Bordeaux,450,120,1,"50 Rue Lafontaine, 33800 Bordeaux, France",chambre,4
-3 chambres appartement de 170m² à Bordeaux,4100,170,3,"Bordeaux, Gironde, France",appartement,24
-4 chambres appartement de 78m² à Bordeaux,1030,78,4,"Bordeaux, Gironde, France",appartement,13
-4 chambres maison de 162m² à Bordeaux,2150,162,4,"Grand Théâtre, Cours du Chapeau Rouge, 33000 Bordeaux, France",maison,13
-1 chambre maison de 10m² à Bordeaux,507,10,1,"Projet Centre médico-scolaire Bordeaux Caudéran, 33200 Bordeaux, France",maison,51
-3 chambres appartement de 90m² à Bordeaux,1230,90,3,"Bordeaux, Gironde, France",appartement,14
-2 chambres appartement de 30m² à Bordeaux,563,30,2,"27 Place Simiot, 33800 Bordeaux, France",appartement,19
-1 chambre studio de 18m² à Bordeaux,560,18,1,"Bordeaux, Gironde, France",studio,31
-5 chambres appartement de 114m² à Bordeaux,2212,114,5,"103 Rue Godard, 33200 Bordeaux, France",appartement,19
-1 chambre appartement de 25m² à Bordeaux,440,25,1,"Bordeaux, Gironde, France",appartement,18
-1 chambre de 26m² à Bordeaux,525,26,1,"Passage Belair, 33800 Bordeaux, France",chambre,20
-3 chambres appartement de 75m² à Bordeaux,921,75,3,"172 Rue Sainte-Catherine, 33000 Bordeaux, France",appartement,12
-1 chambre appartement de 12m² à Bordeaux,420,12,1,"Air France, 37 Allées de Tourny, 33000 Bordeaux, France",appartement,35
-3 chambres appartement de 67m² à Bordeaux,1290,67,3,"17 Rue Jean Descas, 33800 Bordeaux, France",appartement,19
-4 chambres maison de 100m² à Bordeaux,1748,100,4,"Bordeaux, Gironde, France",maison,17
-5 chambres appartement de 33m² à Bordeaux,625,33,5,"31 Cours de Québec, 33300 Bordeaux, France",appartement,19
-1 chambre appartement de 34m² à Bordeaux,646,34,1,"10 Rue de Nantes, 33300 Bordeaux, France",appartement,19
-1 chambre de 85m² à Bordeaux,644,85,1,"4 Rue de Cursol, 33000 Bordeaux, France",chambre,8
-1 chambre maison de 11m² à Bordeaux,507,11,1,"Projet Centre médico-scolaire Bordeaux Caudéran, 33200 Bordeaux, France",maison,46
-3 chambres maison de 103m² à Bordeaux,1552,103,3,"Bordeaux, Gironde, France",maison,15
-1 chambre de 88m² à Bordeaux,550,88,1,"33000 Bordeaux, France",chambre,6
+1 chambre studio de 27m² à Nantes,374,27,1,"Nantes, Loire-Atlantique, France",studio,14
+2 chambres maison de 30m² à Nantes,350,30,2,"8 Rue Gambetta, 44000 Nantes, France",maison,12
+1 chambre appartement de 26m² à Nantes,346,26,1,"FPgéo, Rue Président Desmars, 44200 Nantes, France",appartement,13
+1 chambre appartement de 31m² à Nantes,430,31,1,"44000 Nantes, France",appartement,14
+2 chambres appartement de 36m² à Nantes,470,36,2,"44100 Nantes, France",appartement,13
+1 chambre studio de 27m² à Nantes,386,27,1,"Nantes, Loire-Atlantique, France",studio,14
+1 chambre appartement de 47m² à Nantes,620,47,1,"9 Rue Pierre Yvernogeau, 44300 Nantes, France",appartement,13
+2 chambres appartement de 32m² à Nantes,630,32,2,"10 Avenue Mich, 44000 Nantes, France",appartement,20
+2 chambres appartement de 61m² à Nantes,600,61,2,"26 Quai du Halleray, 44300 Nantes, France",appartement,10
+2 chambres appartement de 41m² à Nantes,678,41,2,"Nantes, Loire-Atlantique, France",appartement,17
+4 chambres appartement de 126m² à Nantes,655,126,4,"Nantes, Loire-Atlantique, France",appartement,5
+2 chambres appartement de 38m² à Nantes,567,38,2,"26 Quai du Halleray, 44300 Nantes, France",appartement,15
+4 chambres appartement de 15m² à Nantes,462,15,4,"44000 Nantes, France",appartement,31
+4 chambres maison de 116m² à Nantes,1250,116,4,"26 Quai du Halleray, 44300 Nantes, France",maison,11
+2 chambres appartement de 52m² à Nantes,612,52,2,"3 Place du Commerce, 44000 Nantes, France",appartement,12
+1 chambre appartement de 23m² à Nantes,384,23,1,"Nantes, Loire-Atlantique, France",appartement,17
+1 chambre appartement de 78m² à Nantes,415,78,1,"Nantes, Loire-Atlantique, France",appartement,5
+1 chambre de 33m² à Nantes,440,33,1,"4 Rue Pierre Étienne Flandin, 44200 Nantes, France",chambre,13
+3 chambres appartement de 64m² à Nantes,781,64,3,"FPgéo, Rue Président Desmars, 44200 Nantes, France",appartement,12
+3 chambres appartement de 68m² à Nantes,857,68,3,"Rue des 3 Mares, 44300 Nantes, France",appartement,13
+3 chambres appartement de 62m² à Nantes,727,62,3,"Route de Vannes, 44036 Nantes, France",appartement,12
+2 chambres appartement de 37m² à Nantes,606,37,2,"Nantes, Loire-Atlantique, France",appartement,16
+3 chambres appartement de 57m² à Nantes,799,57,3,"26 Quai du Halleray, 44300 Nantes, France",appartement,14
+2 chambres studio de 21m² à Nantes,445,21,2,"Nantes, Loire-Atlantique, France",studio,21
+1 chambre maison de 27m² à Nantes,610,27,1,"Rue de la Martinière, 44300 Nantes, France",maison,23
+1 chambre appartement de 11m² à Nantes,485,11,1,"La Souris d'Agneau, Rue Fénelon, 44000 Nantes, France",appartement,44
+2 chambres appartement de 26m² à Nantes,600,26,2,"Hôtel Rosmadec, Rue de la Commune, 44000 Nantes, France",appartement,23
+3 chambres appartement de 78m² à Nantes,790,78,3,"Nantes, Loire-Atlantique, France",appartement,10
+2 chambres appartement de 52m² à Nantes,654,52,2,"Nantes, Loire-Atlantique, France",appartement,13
+3 chambres appartement de 62m² à Nantes,690,62,3,"44000 Nantes, France",appartement,11
+2 chambres appartement de 37m² à Nantes,725,37,2,"16 Rue de Saint-Brévin, 44100 Nantes, France",appartement,20
+1 chambre appartement de 29m² à Nantes,533,29,1,"10 Avenue Mich, 44000 Nantes, France",appartement,18
+1 chambre appartement de 11m² à Nantes,475,11,1,"58 Rue Mauvoisins, 44200 Nantes, France",appartement,43
+2 chambres appartement de 30m² à Nantes,565,30,2,"16 Rue de Saint-Brévin, 44100 Nantes, France",appartement,19
+1 chambre maison de 75m² à Nantes,950,75,1,"4 Rue Saint François, 44000 Nantes, France",maison,13
+3 chambres appartement de 70m² à Nantes,792,70,3,"16 Rue de Saint-Brévin, 44100 Nantes, France",appartement,11
+4 chambres appartement de 78m² à Nantes,415,78,4,"Nantes, Loire-Atlantique, France",appartement,5
+4 chambres maison de 40m² à Nantes,1310,40,4,"Nantes, Loire-Atlantique, France",maison,33
+4 chambres appartement de 130m² à Nantes,1390,130,4,"11Bis Quai Turenne, 44000 Nantes, France",appartement,11
+1 chambre appartement de 20m² à Nantes,450,20,1,"6 Rue du Moulin de l'Abbaye, 44100 Nantes, France",appartement,22
+5 chambres maison de 103m² à Nantes,1675,103,5,"16 Rue de Saint-Brévin, 44100 Nantes, France",maison,16
+2 chambres appartement de 32m² à Nantes,830,32,2,"FPgéo, Rue Président Desmars, 44200 Nantes, France",appartement,26
+2 chambres appartement de 50m² à Nantes,608,50,2,"La Souris d'Agneau, Rue Fénelon, 44000 Nantes, France",appartement,12
+1 chambre appartement de 20m² à Nantes,422,20,1,"104 Rue des Chalâtres, 44000 Nantes, France",appartement,21
+5 chambres appartement de 126m² à Nantes,1187,126,5,"26 Quai du Halleray, 44300 Nantes, France",appartement,9
+1 chambre appartement de 27m² à Nantes,495,27,1,"Nantes, Loire-Atlantique, France",appartement,18
+4 chambres maison de 97m² à Nantes,1230,97,4,"44300 Nantes, France",maison,13
+3 chambres appartement de 55m² à Nantes,790,55,3,"26 Quai du Halleray, 44300 Nantes, France",appartement,14
+3 chambres appartement de 56m² à Nantes,740,56,3,"Rue Beauregard, 44007 Nantes, France",appartement,13
+1 chambre appartement de 25m² à Nantes,506,25,1,"10 Avenue Mich, 44000 Nantes, France",appartement,20
+1 chambre appartement de 11m² à Nantes,415,11,1,"5 Rue Garde Dieu, 44000 Nantes, France",appartement,38
+1 chambre appartement de 18m² à Nantes,431,18,1,"The abolition of the slave trade and slavery in France, Memorial to the Abolition of Slavery, 44003 Nantes, France",appartement,24
+1 chambre appartement de 18m² à Nantes,550,18,1,"10 Bis Rue Émile Péhant, 44000 Nantes, France",appartement,31
+1 chambre appartement de 22m² à Nantes,485,22,1,"La Souris d'Agneau, Rue Fénelon, 44000 Nantes, France",appartement,22
+7 chambres appartement de 146m² à Nantes,670,146,7,"44000 Nantes, France",appartement,5
+5 chambres appartement de 95m² à Nantes,1200,95,5,"3 Allée Jacqueline Maillan, 44200 Nantes, France",appartement,13
+1 chambre de 33m² à Nantes,440,33,1,"4 Rue Pierre Étienne Flandin, 44200 Nantes, France",chambre,13
+1 chambre maison de 70m² à Nantes,890,70,1,"4 Rue Saint François, 44000 Nantes, France",maison,13
+4 chambres appartement de 82m² à Nantes,880,82,4,"13 Rue de Montréal, 44300 Nantes, France",appartement,11
+1 chambre appartement de 50m² à Nantes,1480,50,1,"4 Rue de Briord, 44000 Nantes, France",appartement,30
+4 chambres appartement de 10m² à Nantes,450,10,4,"44300 Nantes, France",appartement,45
+3 chambres appartement de 99m² à Nantes,1150,99,3,"Nantes, Loire-Atlantique, France",appartement,12
+4 chambres maison de 186m² à Nantes,1635,186,4,"Nantes, Loire-Atlantique, France",maison,9
+1 chambre de 76m² à Nantes,530,76,1,"3 Boulevard François Blancho, 44202 Nantes, France",chambre,7
+3 chambres appartement de 68m² à Nantes,857,68,3,"Nantes, Loire-Atlantique, France",appartement,13
+3 chambres appartement de 57m² à Nantes,770,57,3,"44300 Nantes, France",appartement,14
+1 chambre appartement de 17m² à Nantes,540,17,1,"16 Rue de Saint-Brévin, 44100 Nantes, France",appartement,32
+1 chambre appartement de 17m² à Nantes,490,17,1,"62 Rue Paul Bellamy, 44000 Nantes, France",appartement,29
+1 chambre studio de 25m² à Nantes,640,25,1,"Nantes, Loire-Atlantique, France",studio,26
+3 chambres appartement de 80m² à Nantes,910,80,3,"14 Avenue de la Cressonnière, 44300 Nantes, France",appartement,11
+1 chambre studio de 29m² à Nantes,600,29,1,"Quai de Versailles, 44000 Nantes, France",studio,21
+1 chambre studio de 39m² à Nantes,545,39,1,"Nantes, Loire-Atlantique, France",studio,14
+2 chambres appartement de 56m² à Nantes,590,56,2,"2 Rue du Douet Garnier, 44000 Nantes, France",appartement,11
+3 chambres appartement de 100m² à Nantes,2150,100,3,"2 Rue Évariste Luminais, 44100 Nantes, France",appartement,22
+5 chambres maison de 146m² à Nantes,2990,146,5,"Nantes, Loire-Atlantique, France",maison,20
+1 chambre appartement de 12m² à Nantes,485,12,1,"15 Boulevard Gabriel Guist'Hau, 44000 Nantes, France",appartement,40
+4 chambres appartement de 105m² à Nantes,1280,105,4,"10 Avenue Mich, 44000 Nantes, France",appartement,12
+1 chambre de 36m² à Nantes,475,36,1,"22 Rue Georges Bizot, 44300 Nantes, France",chambre,13
+4 chambres appartement de 30m² à Nantes,1300,30,4,"14 Allée Villanova, 44300 Nantes, France",appartement,43
+4 chambres appartement de 80m² à Nantes,1140,80,4,"Nantes, Loire-Atlantique, France",appartement,14
+1 chambre appartement de 27m² à Rennes,338,27,1,"1 Rue de Bourgogne, 35000 Rennes, France",appartement,13
+1 chambre appartement de 27m² à Rennes,322,27,1,"Rennes, Ille-et-Vilaine, France",appartement,12
+2 chambres appartement de 39m² à Rennes,637,39,2,"Rennes, Ille-et-Vilaine, France",appartement,16
+1 chambre appartement de 29m² à Rennes,450,29,1,"Rennes, Ille-et-Vilaine, France",appartement,16
+1 chambre appartement de 27m² à Rennes,375,27,1,"1 Rue de Bourgogne, 35000 Rennes, France",appartement,14
+1 chambre appartement de 81m² à Rennes,320,81,1,"1 Rue de Bourgogne, 35000 Rennes, France",appartement,4
+4 chambres appartement de 73m² à Rennes,465,73,4,"Rennes, Ille-et-Vilaine, France",appartement,6
+1 chambre studio de 27m² à Rennes,323,27,1,"Rennes, Ille-et-Vilaine, France",studio,12
+1 chambre appartement de 9m² à Rennes,290,9,1,"Rennes, Ille-et-Vilaine, France",appartement,32
+4 chambres appartement de 75m² à Rennes,807,75,4,"Rennes, Ille-et-Vilaine, France",appartement,11
+1 chambre appartement de 29m² à Rennes,400,29,1,"1 Rue de Bourgogne, 35000 Rennes, France",appartement,14
+1 chambre studio de 34m² à Rennes,406,34,1,"Rennes, Ille-et-Vilaine, France",studio,12
+2 chambres appartement de 32m² à Rennes,474,32,2,"Agence France-Presse, 24 Avenue des Français Libres, 35000 Rennes, France",appartement,15
+2 chambres appartement de 41m² à Rennes,630,41,2,"Rennes, Ille-et-Vilaine, France",appartement,15
+3 chambres appartement de 64m² à Rennes,720,64,3,"Rennes, Ille-et-Vilaine, France",appartement,11
+2 chambres appartement de 46m² à Rennes,685,46,2,"29 Rue de Penhoët, 35706 Rennes, France",appartement,15
+1 chambre appartement de 37m² à Rennes,435,37,1,"Rennes, Ille-et-Vilaine, France",appartement,12
+1 chambre appartement de 25m² à Rennes,520,25,1,"Rennes, Ille-et-Vilaine, France",appartement,21
+1 chambre appartement de 31m² à Rennes,424,31,1,"1 Rue de Bourgogne, 35000 Rennes, France",appartement,14
+3 chambres appartement de 62m² à Rennes,870,62,3,"Rennes, Ille-et-Vilaine, France",appartement,14
+1 chambre appartement de 16m² à Rennes,373,16,1,"Rennes, Ille-et-Vilaine, France",appartement,23
+1 chambre appartement de 38m² à Rennes,458,38,1,"Rennes, Ille-et-Vilaine, France",appartement,12
+1 chambre appartement de 36m² à Rennes,500,36,1,"1 Rue de Bourgogne, 35000 Rennes, France",appartement,14
+3 chambres appartement de 64m² à Rennes,850,64,3,"229 Rue de Fougères, 35700 Rennes, France",appartement,13
+1 chambre appartement de 77m² à Rennes,400,77,1,"1 Rue de Bourgogne, 35000 Rennes, France",appartement,5
+2 chambres appartement de 50m² à Rennes,720,50,2,"Rennes, Ille-et-Vilaine, France",appartement,14
+4 chambres appartement de 81m² à Rennes,1140,81,4,"Rennes, Ille-et-Vilaine, France",appartement,14
+1 chambre studio de 32m² à Rennes,383,32,1,"Rennes, Ille-et-Vilaine, France",studio,12
+3 chambres appartement de 64m² à Rennes,785,64,3,"Rennes, Ille-et-Vilaine, France",appartement,12
+1 chambre maison de 30m² à Rennes,350,30,1,"1 Rue de Bourgogne, 35000 Rennes, France",maison,12
+1 chambre appartement de 22m² à Rennes,535,22,1,"24 Rue Brizeux, 35064 Rennes, France",appartement,24
+1 chambre maison de 73m² à Rennes,444,73,1,"1 Rue de Bourgogne, 35000 Rennes, France",maison,6
+1 chambre appartement de 17m² à Rennes,480,17,1,"Rennes, Place de la Gare, 35000 Rennes, France",appartement,28
+1 chambre maison de 92m² à Rennes,330,92,1,"1 Rue de Bourgogne, 35000 Rennes, France",maison,4
+3 chambres appartement de 68m² à Rennes,800,68,3,"Rennes, Ille-et-Vilaine, France",appartement,12
+1 chambre appartement de 85m² à Rennes,600,85,1,"1 Rue de Bourgogne, 35000 Rennes, France",appartement,7
+1 chambre maison de 66m² à Rennes,315,66,1,"1 Rue de Bourgogne, 35000 Rennes, France",maison,5
+3 chambres appartement de 55m² à Rennes,765,55,3,"Rennes, Ille-et-Vilaine, France",appartement,14
+1 chambre appartement de 16m² à Rennes,380,16,1,"Rennes, Ille-et-Vilaine, France",appartement,24
+1 chambre appartement de 89m² à Rennes,575,89,1,"29 Rue de Penhoët, 35706 Rennes, France",appartement,6
+1 chambre appartement de 31m² à Rennes,432,31,1,"1 Rue de Bourgogne, 35000 Rennes, France",appartement,14
+1 chambre appartement de 14m² à Rennes,455,14,1,"Rennes, Ille-et-Vilaine, France",appartement,32
+1 chambre studio de 25m² à Rennes,638,25,1,"Rennes, Place de la Gare, 35000 Rennes, France",studio,26
+2 chambres appartement de 44m² à Rennes,645,44,2,"Rennes, Ille-et-Vilaine, France",appartement,15
+1 chambre studio de 33m² à Rennes,392,33,1,"Rennes, Ille-et-Vilaine, France",studio,12
+1 chambre appartement de 27m² à Rennes,375,27,1,"1 Rue de Bourgogne, 35000 Rennes, France",appartement,14
+1 chambre studio de 38m² à Rennes,463,38,1,"Rennes, Ille-et-Vilaine, France",studio,12
+1 chambre appartement de 27m² à Rennes,701,27,1,"47 Rue Antoine Joly, 35043 Rennes, France",appartement,26
+1 chambre appartement de 29m² à Rennes,650,29,1,"Rennes, Place de la Gare, 35000 Rennes, France",appartement,22
+1 chambre studio de 37m² à Rennes,441,37,1,"Rennes, Ille-et-Vilaine, France",studio,12
+1 chambre studio de 30m² à Rennes,635,30,1,"Rennes, Place de la Gare, 35000 Rennes, France",studio,21
+3 chambres appartement de 63m² à Rennes,780,63,3,"29 Rue de Penhoët, 35706 Rennes, France",appartement,12
+5 chambres appartement de 91m² à Rennes,1177,91,5,"Rennes, Ille-et-Vilaine, France",appartement,13
+2 chambres appartement de 43m² à Rennes,744,43,2,"5 Rue de l'Horloge, 35000 Rennes, France",appartement,17
+2 chambres appartement de 36m² à Rennes,750,36,2,"Rennes, Place de la Gare, 35000 Rennes, France",appartement,21
+1 chambre studio de 36m² à Rennes,421,36,1,"Rennes, Ille-et-Vilaine, France",studio,12
+5 chambres appartement de 81m² à Rennes,1340,81,5,"Rennes, Ille-et-Vilaine, France",appartement,17
+4 chambres maison de 79m² à Rennes,1208,79,4,"29 Rue de Penhoët, 35706 Rennes, France",maison,15
+2 chambres appartement de 41m² à Rennes,680,41,2,"Rennes, Place de la Gare, 35000 Rennes, France",appartement,17
+1 chambre appartement de 14m² à Rennes,400,14,1,"Rennes, Ille-et-Vilaine, France",appartement,29
+1 chambre appartement de 16m² à Rennes,424,16,1,"Rennes, Ille-et-Vilaine, France",appartement,26
+1 chambre appartement de 29m² à Rennes,400,29,1,"1 Rue de Bourgogne, 35000 Rennes, France",appartement,14
+4 chambres appartement de 60m² à Rennes,390,60,4,"Rennes, Place de la Gare, 35000 Rennes, France",appartement,6
+1 chambre maison de 77m² à Rennes,454,77,1,"1 Rue de Bourgogne, 35000 Rennes, France",maison,6
+1 chambre maison de 69m² à Rennes,400,69,1,"1 Rue de Bourgogne, 35000 Rennes, France",maison,6
+4 chambres appartement de 78m² à Rennes,1400,78,4,"Rennes, Ille-et-Vilaine, France",appartement,18
+4 chambres appartement de 64m² à Rennes,950,64,4,"Rennes, Ille-et-Vilaine, France",appartement,15
+3 chambres appartement de 79m² à Rennes,900,79,3,"29 Rue de Penhoët, 35706 Rennes, France",appartement,11
+1 chambre maison de 88m² à Rennes,435,88,1,"1 Rue de Bourgogne, 35000 Rennes, France",maison,5
+4 chambres appartement de 83m² à Rennes,872,83,4,"Agence France-Presse, 24 Avenue des Français Libres, 35000 Rennes, France",appartement,11
+1 chambre appartement de 29m² à Rennes,440,29,1,"Agence France-Presse, 24 Avenue des Français Libres, 35000 Rennes, France",appartement,15
+1 chambre studio de 41m² à Rennes,489,41,1,"Rennes, Ille-et-Vilaine, France",studio,12
+1 chambre appartement de 15m² à Rennes,448,15,1,"1 Rue de Bourgogne, 35000 Rennes, France",appartement,30
+1 chambre appartement de 22m² à Rennes,404,22,1,"Rennes, Ille-et-Vilaine, France",appartement,18
+1 chambre appartement de 23m² à Rennes,460,23,1,"Agence France-Presse, 24 Avenue des Français Libres, 35000 Rennes, France",appartement,20
+1 chambre maison de 36m² à Rennes,425,36,1,"1 Rue de Bourgogne, 35000 Rennes, France",maison,12
+5 chambres maison de 114m² à Rennes,2100,114,5,"29 Rue de Penhoët, 35706 Rennes, France",maison,18
+3 chambres appartement de 65m² à Rennes,903,65,3,"Rennes, Ille-et-Vilaine, France",appartement,14
+2 chambres appartement de 39m² à Rennes,680,39,2,"Agence France-Presse, 24 Avenue des Français Libres, 35000 Rennes, France",appartement,17
+2 chambres appartement de 48m² à Rennes,790,48,2,"Rennes, Place de la Gare, 35000 Rennes, France",appartement,16
+1 chambre appartement de 25m² à Toulon,550,25,1,"41 Place de la Liberte, 83000 Toulon, France",appartement,22
+2 chambres appartement de 67m² à Toulon,480,67,2,"Toulon, Var, France",appartement,7
+2 chambres appartement de 35m² à Toulon,459,35,2,"Toulon, Var, France",appartement,13
+3 chambres appartement de 88m² à Toulon,814,88,3,"314 Avenue Mirasouleou, 83100 Toulon, France",appartement,9
+2 chambres maison de 23m² à Toulon,650,23,2,"Toulon, Var, France",maison,28
+2 chambres appartement de 39m² à Toulon,599,39,2,"185 Rue Andre Blondel, 83100 Toulon, France",appartement,15
+1 chambre studio de 28m² à Toulon,480,28,1,"Toulon, Var, France",studio,17
+1 chambre appartement de 53m² à Toulon,500,53,1,"Toulon, Var, France",appartement,9
+4 chambres appartement de 101m² à Toulon,995,101,4,"14 Rue de Pomet, 83000 Toulon, France",appartement,10
+5 chambres appartement de 93m² à Toulon,1040,93,5,"878 Boulevard Louis Picon, 83200 Toulon, France",appartement,11
+3 chambres appartement de 52m² à Toulon,750,52,3,"305 Avenue des Fils Marescot, 83200 Toulon, France",appartement,14
+4 chambres appartement de 71m² à Toulon,900,71,4,"52 Rue de l’Iseran, 83000 Toulon, France",appartement,13
+1 chambre appartement de 39m² à Toulon,490,39,1,"41 Place de la Liberte, 83000 Toulon, France",appartement,13
+2 chambres appartement de 52m² à Toulon,654,52,2,"Toulon, Var, France",appartement,13
+1 chambre appartement de 38m² à Toulon,750,38,1,"167 Rue Jean Jaures, 83000 Toulon, France",appartement,20
+3 chambres appartement de 69m² à Toulon,770,69,3,"Toulon, Var, France",appartement,11
+2 chambres appartement de 34m² à Toulon,628,34,2,"227 Avenue de Siblas, 83000 Toulon, France",appartement,18
+1 chambre studio de 19m² à Toulon,560,19,1,"Toulon, Var, France",studio,29
+2 chambres appartement de 49m² à Toulon,665,49,2,"87 Boulevard Jean Noble, 83000 Toulon, France",appartement,14
+2 chambres appartement de 37m² à Toulon,690,37,2,"1003 Avenue Francois Roustan, 83000 Toulon, France",appartement,19
+1 chambre studio de 16m² à Toulon,395,16,1,"41 Place de la Liberte, 83000 Toulon, France",studio,25
+3 chambres appartement de 56m² à Toulon,985,56,3,"1003 Avenue Francois Roustan, 83000 Toulon, France",appartement,18
+3 chambres appartement de 63m² à Toulon,755,63,3,"160 Boulevard Georges Clemenceau, 83000 Toulon, France",appartement,12
+1 chambre appartement de 37m² à Toulon,483,37,1,"6 Rue Dominique Santini, 83000 Toulon, France",appartement,13
+2 chambres appartement de 38m² à Toulon,699,38,2,"Toulon, Var, France",appartement,18
+4 chambres appartement de 75m² à Toulon,1090,75,4,"41 Place de la Liberte, 83000 Toulon, France",appartement,15
+4 chambres maison de 105m² à Toulon,1028,105,4,"Toulon, Var, France",maison,10
+3 chambres appartement de 50m² à Toulon,765,50,3,"471 Avenue Joseph-Louis Ortolan, 83100 Toulon, France",appartement,15
+3 chambres appartement de 71m² à Toulon,735,71,3,"9 Rue des Cottages Fleuris, 83000 Toulon, France",appartement,10
+2 chambres maison de 48m² à Toulon,630,48,2,"Toulon, Var, France",maison,13
+1 chambre maison de 120m² à Toulon,1650,120,1,"1003 Avenue Francois Roustan, 83000 Toulon, France",maison,14
+5 chambres appartement de 85m² à Toulon,960,85,5,"Toulon, Var, France",appartement,11
+1 chambre appartement de 27m² à Toulon,540,27,1,"41 Place de la Liberte, 83000 Toulon, France",appartement,20
+2 chambres appartement de 32m² à Toulon,650,32,2,"Toulon, Var, France",appartement,20
+5 chambres appartement de 137m² à Toulon,1237,137,5,"Toulon, Var, France",appartement,9
+2 chambres appartement de 28m² à Toulon,600,28,2,"Toulon, Var, France",appartement,21
+4 chambres appartement de 114m² à Toulon,1465,114,4,"Toulon, Var, France",appartement,13
+3 chambres appartement de 72m² à Toulon,865,72,3,"176 Avenue Mirasouleou, 83100 Toulon, France",appartement,12
+1 chambre appartement de 21m² à Toulon,450,21,1,"87 Rue Adolphe Bony, 83000 Toulon, France",appartement,21
+2 chambres appartement de 35m² à Toulon,590,35,2,"1003 Avenue Francois Roustan, 83000 Toulon, France",appartement,17
+2 chambres appartement de 11m² à Toulon,520,11,2,"Toulon, Var, France",appartement,47
+1 chambre appartement de 25m² à Toulon,550,25,1,"123 Avenue Francois Nardi, 83000 Toulon, France",appartement,22
+4 chambres appartement de 85m² à Toulon,1100,85,4,"Toulon, Var, France",appartement,13
+3 chambres appartement de 57m² à Toulon,986,57,3,"15 Fleurs des Champs, 83100 Toulon, France",appartement,17
+1 chambre de 26m² à Toulon,410,26,1,"135 Boulevard Leon Bourgeois, 83100 Toulon, France",chambre,16
+2 chambres maison de 82m² à Toulon,1872,82,2,"2 Rue Jean de Chaumont, 83000 Toulon, France",maison,23
+1 chambre appartement de 34m² à Toulon,602,34,1,"Toulon, Var, France",appartement,18
+2 chambres appartement de 43m² à Toulon,820,43,2,"Toulon, Var, France",appartement,19
+1 chambre appartement de 26m² à Toulon,550,26,1,"B1 Boulevard Docteur Charles Barnier, 12345 Toulon, France",appartement,21
+1 chambre appartement de 15m² à Toulon,465,15,1,"18 Chemin de la Loubiere, 83000 Toulon, France",appartement,31
+1 chambre studio de 20m² à Toulon,590,20,1,"Toulon, Var, France",studio,30
+6 chambres appartement de 158m² à Toulon,1600,158,6,"49 Rue Henri Poincare, 83000 Toulon, France",appartement,10
+2 chambres appartement de 40m² à Toulon,721,40,2,"63 Rue Pierre Devoluy, 83000 Toulon, France",appartement,18
+4 chambres appartement de 78m² à Toulon,1040,78,4,"Toulon, Var, France",appartement,13
+2 chambres appartement de 49m² à Toulon,750,49,2,"233 Quai Riviere Neuve, 83200 Toulon, France",appartement,15
+4 chambres maison de 103m² à Toulon,2190,103,4,"52 Rue de l’Iseran, 83000 Toulon, France",maison,21
+4 chambres appartement de 82m² à Toulon,1600,82,4,"9 Rue Diane, 83000 Toulon, France",appartement,20
+2 chambres appartement de 49m² à Toulon,730,49,2,"Toulon, Var, France",appartement,15
+2 chambres appartement de 52m² à Toulon,715,52,2,"167 Rue Jean Jaures, 83000 Toulon, France",appartement,14
+2 chambres appartement de 32m² à Toulon,538,32,2,"254 Avenue Rageot de la Touche, 83000 Toulon, France",appartement,17
+5 chambres maison de 120m² à Toulon,1650,120,5,"Toulon, Var, France",maison,14
+2 chambres appartement de 44m² à Toulon,750,44,2,"Toulon, Var, France",appartement,17
+2 chambres appartement de 40m² à Toulon,608,40,2,"Toulon, Var, France",appartement,15
+2 chambres appartement de 56m² à Toulon,950,56,2,"Toulon, Var, France",appartement,17
+1 chambre studio de 25m² à Toulon,484,25,1,"Toulon, Var, France",studio,19
+3 chambres appartement de 75m² à Toulon,1050,75,3,"Toulon, Var, France",appartement,14
+1 chambre de 25m² à Toulon,400,25,1,"141 Avenue François Cuzin, 83000 Toulon, France",chambre,16
+1 chambre de 26m² à Toulon,410,26,1,"135 Boulevard Leon Bourgeois, 83100 Toulon, France",chambre,16
+1 chambre appartement de 27m² à Toulon,700,27,1,"Toulon, Var, France",appartement,26
+2 chambres appartement de 37m² à Toulon,690,37,2,"Toulon, Var, France",appartement,19
+3 chambres appartement de 62m² à Toulon,990,62,3,"300d Chemin de la Colline, 83200 Toulon, France",appartement,16
+2 chambres appartement de 54m² à Toulon,690,54,2,"Toulon, Var, France",appartement,13
+2 chambres appartement de 32m² à Toulon,595,32,2,"9 Rue des Cottages Fleuris, 83000 Toulon, France",appartement,19
+4 chambres appartement de 137m² à Toulon,3585,137,4,"97 Avenue Jean Moulin, 83000 Toulon, France",appartement,26
+2 chambres appartement de 42m² à Toulon,785,42,2,"9 Rue des Cottages Fleuris, 83000 Toulon, France",appartement,19
+4 chambres appartement de 80m² à Toulon,1250,80,4,"Toulon, Var, France",appartement,16
+1 chambre studio de 33m² à Toulon,620,33,1,"Toulon, Var, France",studio,19
+3 chambres appartement de 53m² à Toulon,790,53,3,"Rue Anatole France, 83800 Toulon, France",appartement,15
+2 chambres appartement de 48m² à Toulon,667,48,2,"Toulon, Var, France",appartement,14
+4 chambres maison de 81m² à Toulon,1630,81,4,"Toulon, Var, France",maison,20
+1 chambre appartement de 26m² à Brest,480,26,1,"1 rue du Duc d'Aumale, 29200 Brest, France",appartement,18
+1 chambre appartement de 10m² à Brest,320,10,1,"Brest, Finistère, France",appartement,32
+7 chambres appartement de 150m² à Brest,500,150,7,"29200 Brest, France",appartement,3
+3 chambres appartement de 63m² à Brest,700,63,3,"29200 Brest, France",appartement,11
+2 chambres appartement de 25m² à Brest,800,25,2,"29200 Brest, France",appartement,32
+1 chambre appartement de 11m² à Brest,400,11,1,"29200 Brest, France",appartement,36
+3 chambres maison de 85m² à Brest,940,85,3,"7 Rue Jacques Offenbach, 29200 Treornou, France",maison,11
+5 chambres appartement de 80m² à Brest,395,80,5,"1 rue du Duc d'Aumale, 29200 Brest, France",appartement,5
+4 chambres appartement de 88m² à Brest,890,88,4,"29200 Brest, France",appartement,10
+4 chambres appartement de 82m² à Brest,847,82,4,"16 Rue Sébastopol, 29200 Brest, France",appartement,10
+2 chambres appartement de 65m² à Brest,580,65,2,"Rue de la France Combattante, 29200 Brest, France",appartement,9
+2 chambres appartement de 33m² à Brest,600,33,2,"29200 Brest, France",appartement,18
+1 chambre appartement de 30m² à Brest,590,30,1,"Brest, Finistère, France",appartement,20
+3 chambres appartement de 73m² à Brest,890,73,3,"Brest, Finistère, France",appartement,12
+3 chambres appartement de 53m² à Brest,690,53,3,"29200 Brest, France",appartement,13
+1 chambre appartement de 43m² à Brest,480,43,1,"Brest, Finistère, France",appartement,11
+5 chambres appartement de 78m² à Brest,450,78,5,"29200 Brest, France",appartement,6
+1 chambre de 29m² à Brest,350,29,1,"Rue du Périgord, 29200 Brest, France",chambre,12
+4 chambres appartement de 91m² à Brest,390,91,4,"1 rue du Duc d'Aumale, 29200 Brest, France",appartement,4
+1 chambre appartement de 12m² à Brest,385,12,1,"29200 Brest, France",appartement,32
+3 chambres appartement de 68m² à Brest,780,68,3,"29200 Brest, France",appartement,11
+3 chambres appartement de 50m² à Brest,750,50,3,"29200 Brest, France",appartement,15
+4 chambres appartement de 94m² à Brest,1470,94,4,"Brest, Finistère, France",appartement,16
+3 chambres appartement de 71m² à Brest,896,71,3,"53 Rue de Prat Podic, 29200 Brest, France",appartement,13
+5 chambres maison de 108m² à Brest,1300,108,5,"Brest, Finistère, France",maison,12
+2 chambres appartement de 51m² à Brest,730,51,2,"29200 Brest, France",appartement,14
+5 chambres appartement de 78m² à Brest,400,78,5,"29200 Brest, France",appartement,5
+3 chambres maison de 90m² à Brest,900,90,3,"16 place de la Liberté, 29200 Brest, France",maison,10
+2 chambres appartement de 55m² à Brest,790,55,2,"1 rue du Duc d'Aumale, 29200 Brest, France",appartement,14
+7 chambres appartement de 10m² à Brest,430,10,7,"Brest, Finistère, France",appartement,43
+1 chambre appartement de 22m² à Brest,400,22,1,"Rue de la France Combattante, 29200 Brest, France",appartement,18
+1 chambre appartement de 20m² à Brest,470,20,1,"Brest, Finistère, France",appartement,24
+1 chambre appartement de 9m² à Brest,380,9,1,"29200 Brest, France",appartement,42
+1 chambre appartement de 60m² à Brest,740,60,1,"Brest, Finistère, France",appartement,12
+1 chambre de 33m² à Brest,400,33,1,"Rue Amiral Courbet, 29200 Brest, France",chambre,12
+4 chambres de 96m² à Brest,480,96,4,"Brest, Finistère, France",chambre,5
+2 chambres appartement de 55m² à Brest,790,55,2,"1 rue du Duc d'Aumale, 29200 Brest, France",appartement,14
+5 chambres appartement de 123m² à Brest,1100,123,5,"Brest, Finistère, France",appartement,9
+3 chambres appartement de 66m² à Brest,780,66,3,"29200 Brest, France",appartement,12
+5 chambres appartement de 11m² à Brest,304,11,5,"16 place de la Liberté, 29200 Brest, France",appartement,28
+3 chambres appartement de 63m² à Brest,800,63,3,"20 avenue Victor Le Gorgeu, 29200 Brest, France",appartement,13
+5 chambres appartement de 79m² à Brest,450,79,5,"29200 Brest, France",appartement,6
+2 chambres appartement de 29m² à Brest,530,29,2,"29200 Brest, France",appartement,18
+1 chambre de 29m² à Brest,350,29,1,"3 Rue Anatole France, 29200 Kérargaouyat, France",chambre,12
+2 chambres appartement de 46m² à Brest,700,46,2,"Brest, Finistère, France",appartement,15
+1 chambre appartement de 27m² à Brest,500,27,1,"29200 Brest, France",appartement,19
+1 chambre studio de 18m² à Brest,450,18,1,"29480 Le Relecq-Kerhuon, France",studio,25
+6 chambres appartement de 9m² à Brest,367,9,6,"29200 Brest, France",appartement,41
+2 chambres appartement de 45m² à Brest,1250,45,2,"1 rue du Duc d'Aumale, 29200 Brest, France",appartement,28
+2 chambres appartement de 58m² à Brest,850,58,2,"Brest, Finistère, France",appartement,15
+1 chambre appartement de 19m² à Brest,528,19,1,"29200 Brest, France",appartement,28
+5 chambres maison de 86m² à Brest,1000,86,5,"29200 Brest, France",maison,12
+4 chambres appartement de 95m² à Brest,1150,95,4,"Brest, Finistère, France",appartement,12
+3 chambres appartement de 76m² à Brest,905,76,3,"1 rue du Duc d'Aumale, 29200 Brest, France",appartement,12
+4 chambres de 96m² à Brest,480,96,4,"2 Rue Louis Vierne, 29200 Le Petit Spernot, France",chambre,5
+1 chambre de 30m² à Brest,370,30,1,"Rue du Languedoc, 29200 Brest, France",chambre,12
+1 chambre de 29m² à Brest,360,29,1,"Rue Pierre Sèvre, 29200 Brest, France",chambre,12
+3 chambres appartement de 69m² à Brest,880,69,3,"29200 Brest, France",appartement,13
+2 chambres appartement de 56m² à Brest,680,56,2,"1 rue du Duc d'Aumale, 29200 Brest, France",appartement,12
+3 chambres de 91m² à Brest,390,91,3,"1 rue du Duc d'Aumale, 29200 Brest, France",chambre,4
+4 chambres de 96m² à Brest,480,96,4,"Brest, Finistère, France",chambre,5
+4 chambres appartement de 88m² à Brest,1120,88,4,"Brest, Finistère, France",appartement,13
+4 chambres appartement de 80m² à Brest,915,80,4,"29200 Brest, France",appartement,11
+5 chambres appartement de 100m² à Brest,1120,100,5,"29200 Brest, France",appartement,11
+1 chambre de 32m² à Brest,390,32,1,"Rue Jean Jaurès, 29200 Brest, France",chambre,12
+3 chambres appartement de 70m² à Brest,775,70,3,"29200 Brest, France",appartement,11
+1 chambre appartement de 76m² à Brest,915,76,1,"18 Rue Marcel Sembat, 29200 Brest, France",appartement,12
+1 chambre de 29m² à Brest,360,29,1,"1 Rue de Dinan, 29200 Raozoc, France",chambre,12
+6 chambres appartement de 11m² à Brest,370,11,6,"29200 Brest, France",appartement,34
+1 chambre de 33m² à Brest,400,33,1,"22 Rue Amiral Courbet, 29200 Brest, France",chambre,12
+3 chambres appartement de 87m² à Brest,800,87,3,"29200 Brest, France",appartement,9
+2 chambres appartement de 34m² à Brest,550,34,2,"29200 Brest, France",appartement,16
+1 chambre de 32m² à Brest,390,32,1,"Rue Jean Jaurès, 29200 Brest, France",chambre,12
+3 chambres appartement de 63m² à Brest,740,63,3,"Brest, Finistère, France",appartement,12
+4 chambres appartement de 76m² à Brest,780,76,4,"29200 Brest, France",appartement,10
+3 chambres appartement de 79m² à Brest,820,79,3,"29200 Brest, France",appartement,10
+1 chambre de 31m² à Brest,380,31,1,"Rue de Kerbloas, 29200 Treornou, France",chambre,12
+1 chambre appartement de 25m² à Brest,530,25,1,"29200 Brest, France",appartement,21
+3 chambres appartement de 65m² à Brest,780,65,3,"29200 Brest, France",appartement,12
+2 chambres appartement de 40m² à Brest,715,40,2,"29200 Brest, France",appartement,18
+3 chambres appartement de 81m² à Reims,689,81,3,"Reims, Marne, France",appartement,9
+1 chambre appartement de 19m² à Reims,310,19,1,"1 Rue des Tuileries, 51100 Reims, France",appartement,16
+1 chambre appartement de 18m² à Reims,280,18,1,"Reims, Marne, France",appartement,16
+4 chambres appartement de 61m² à Reims,620,61,4,"Reims, Marne, France",appartement,10
+1 chambre appartement de 25m² à Reims,405,25,1,"1 Rue des Tuileries, 51100 Reims, France",appartement,16
+1 chambre appartement de 20m² à Reims,328,20,1,"1 Rue des Tuileries, 51100 Reims, France",appartement,16
+5 chambres appartement de 103m² à Reims,960,103,5,"5 Rue du Cardinal Suhard, 51100 Reims, France",appartement,9
+4 chambres appartement de 72m² à Reims,728,72,4,"14 Rue Lecointre, 51100 Reims, France",appartement,10
+4 chambres maison de 83m² à Reims,1050,83,4,"Reims, Marne, France",maison,13
+3 chambres maison de 159m² à Reims,1140,159,3,"Reims, Marne, France",maison,7
+1 chambre appartement de 44m² à Reims,332,44,1,"1 Rue Albert Camus, 51100 Reims, France",appartement,8
+1 chambre appartement de 32m² à Reims,450,32,1,"Reims, Marne, France",appartement,14
+4 chambres appartement de 128m² à Reims,890,128,4,"Reims, Marne, France",appartement,7
+3 chambres appartement de 70m² à Reims,564,70,3,"21 Rue de Taissy, 51100 Reims, France",appartement,8
+2 chambres maison de 55m² à Reims,760,55,2,"Reims, Marne, France",maison,14
+1 chambre studio de 23m² à Reims,349,23,1,"Reims, Marne, France",studio,15
+2 chambres appartement de 44m² à Reims,631,44,2,"1 Rue Saint-Pierre les Dames, 51100 Reims, France",appartement,14
+2 chambres appartement de 55m² à Reims,694,55,2,"29 bis Rue Ponsardin, 51100 Reims, France",appartement,13
+4 chambres appartement de 111m² à Reims,933,111,4,"Reims, Marne, France",appartement,8
+1 chambre appartement de 34m² à Reims,500,34,1,"Reims, Marne, France",appartement,15
+1 chambre appartement de 31m² à Reims,495,31,1,"Reims, Marne, France",appartement,16
+2 chambres appartement de 49m² à Reims,655,49,2,"Reims, Marne, France",appartement,13
+2 chambres maison de 35m² à Reims,550,35,2,"14 Place des Fleurs, 51450 Bétheny, France",maison,16
+2 chambres appartement de 35m² à Reims,550,35,2,"Reims, Marne, France",appartement,16
+2 chambres appartement de 28m² à Reims,544,28,2,"Reims, Marne, France",appartement,19
+5 chambres appartement de 92m² à Reims,892,92,5,"7 Rue Gerbert, 51100 Reims, France",appartement,10
+3 chambres appartement de 58m² à Reims,760,58,3,"Reims, Marne, France",appartement,13
+2 chambres appartement de 60m² à Reims,681,60,2,"Reims, Marne, France",appartement,11
+1 chambre studio de 18m² à Reims,348,18,1,"Reims, Marne, France",studio,19
+4 chambres appartement de 63m² à Reims,780,63,4,"Reims, Marne, France",appartement,12
+1 chambre appartement de 24m² à Reims,520,24,1,"28 rue de Berru, 51100 Reims, France",appartement,22
+1 chambre appartement de 45m² à Reims,545,45,1,"Reims, Marne, France",appartement,12
+3 chambres appartement de 61m² à Reims,810,61,3,"Reims, Marne, France",appartement,13
+3 chambres appartement de 70m² à Reims,740,70,3,"Reims, Marne, France",appartement,11
+4 chambres appartement de 113m² à Reims,837,113,4,"Esplanade Simone Veil, 51100 Reims, France",appartement,7
+1 chambre appartement de 24m² à Reims,399,24,1,"1 Rue des Tuileries, 51100 Reims, France",appartement,17
+3 chambres appartement de 58m² à Reims,678,58,3,"Reims, Marne, France",appartement,12
+2 chambres appartement de 86m² à Reims,860,86,2,"Reims, Marne, France",appartement,10
+1 chambre appartement de 132m² à Reims,600,132,1,"Reims, Marne, France",appartement,5
+1 chambre studio de 17m² à Reims,395,17,1,"Reims, Marne, France",studio,23
+2 chambres appartement de 42m² à Reims,650,42,2,"Reims, Marne, France",appartement,15
+1 chambre appartement de 51m² à Reims,695,51,1,"Reims, Marne, France",appartement,14
+2 chambres appartement de 63m² à Reims,741,63,2,"1 Rue Dallier, 51100 Reims, France",appartement,12
+2 chambres appartement de 36m² à Reims,595,36,2,"23ter Rue du Temple, 51100 Reims, France",appartement,17
+1 chambre appartement de 40m² à Reims,450,40,1,"Reims, Marne, France",appartement,11
+1 chambre appartement de 17m² à Reims,425,17,1,"Reims, Marne, France",appartement,25
+1 chambre appartement de 37m² à Reims,420,37,1,"Reims, Marne, France",appartement,11
+2 chambres appartement de 49m² à Reims,640,49,2,"Reims, Marne, France",appartement,13
+2 chambres appartement de 45m² à Reims,680,45,2,"7 Rue Gerbert, 51100 Reims, France",appartement,15
+1 chambre studio de 23m² à Reims,460,23,1,"Reims, Marne, France",studio,20
+1 chambre appartement de 29m² à Reims,595,29,1,"2 Rue du Général Sarrail, 51100 Reims, France",appartement,21
+6 chambres maison de 127m² à Reims,1600,127,6,"Reims, Marne, France",maison,13
+5 chambres maison de 130m² à Reims,2600,130,5,"Reims, Marne, France",maison,20
+2 chambres appartement de 34m² à Reims,550,34,2,"Reims, Marne, France",appartement,16
+1 chambre appartement de 25m² à Reims,482,25,1,"10 Rue Gerbert, 51100 Reims, France",appartement,19
+1 chambre appartement de 18m² à Reims,500,18,1,"Reims, Marne, France",appartement,28
+1 chambre appartement de 22m² à Reims,360,22,1,"1 Rue des Tuileries, 51100 Reims, France",appartement,16
+1 chambre appartement de 32m² à Reims,520,32,1,"1 Rue des Tuileries, 51100 Reims, France",appartement,16
+1 chambre appartement de 29m² à Reims,465,29,1,"1 Rue des Tuileries, 51100 Reims, France",appartement,16
+3 chambres appartement de 63m² à Reims,770,63,3,"Reims, Marne, France",appartement,12
+1 chambre maison de 51m² à Reims,760,51,1,"1 Rue des Tuileries, 51100 Reims, France",maison,15
+1 chambre studio de 25m² à Reims,420,25,1,"Reims, Marne, France",studio,17
+1 chambre appartement de 15m² à Reims,380,15,1,"Reims, Marne, France",appartement,25
+2 chambres appartement de 39m² à Reims,580,39,2,"Reims, Marne, France",appartement,15
+1 chambre appartement de 40m² à Reims,440,40,1,"Reims, Marne, France",appartement,11
+2 chambres appartement de 55m² à Reims,758,55,2,"Reims, Marne, France",appartement,14
+3 chambres maison de 170m² à Reims,1200,170,3,"Reims, Marne, France",maison,7
+2 chambres appartement de 53m² à Reims,640,53,2,"29 Rue Landouzy, 51100 Reims, France",appartement,12
+1 chambre appartement de 25m² à Reims,421,25,1,"Reims, Marne, France",appartement,17
+1 chambre appartement de 27m² à Reims,450,27,1,"1 Rue des Tuileries, 51100 Reims, France",appartement,17
+3 chambres appartement de 81m² à Reims,1030,81,3,"Reims, Marne, France",appartement,13
+4 chambres appartement de 63m² à Reims,780,63,4,"Reims, Marne, France",appartement,12
+2 chambres appartement de 45m² à Reims,680,45,2,"29 Rue Landouzy, 51100 Reims, France",appartement,15
+3 chambres appartement de 70m² à Reims,740,70,3,"Reims, Marne, France",appartement,11
+1 chambre appartement de 27m² à Reims,523,27,1,"Reims, Marne, France",appartement,19
+1 chambre appartement de 19m² à Reims,508,19,1,"Reims, Marne, France",appartement,27
+3 chambres appartement de 40m² à Reims,732,40,3,"Reims, Marne, France",appartement,18
+3 chambres appartement de 77m² à Reims,920,77,3,"Reims, Marne, France",appartement,12
+1 chambre appartement de 22m² à Reims,401,22,1,"Reims, Marne, France",appartement,18
+3 chambres appartement de 72m² à Reims,981,72,3,"Reims, Marne, France",appartement,14
