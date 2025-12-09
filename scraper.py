@@ -1,237 +1,159 @@
-import requests
-from bs4 import BeautifulSoup
-import pandas as pd
-import re
 import time
-from urllib.parse import urljoin
+import random
+import pandas as pd
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
+from bs4 import BeautifulSoup
 
+# --- 1. Configuration du Projet ---
+# Liste des départements à scraper
+departements = ['75', '13', '01', '69', '31', '06', '44', '34', '33', '59', '83', '42', '76', '21', '38']
+pages_to_scrape = 5
+base_url = "https://www.immobilier.notaires.fr/fr/annonces-immobilieres-liste"
 
-# Vos fonctions d'extraction d'annonces
-def extraire_titre(soup):
-    try:
-        titre_element = soup.find('h1')
-        return titre_element.get_text().strip() if titre_element else ''
-    except:
-        return ''
+# Liste pour stocker tous les résultats
+all_data = []
 
+# --- 2. Configuration de Selenium (Mode Headless) ---
+chrome_options = Options()
+# Mode Headless (sans interface graphique) pour la rapidité et la stabilité
+chrome_options.add_argument("--headless")
+chrome_options.add_argument("--no-sandbox")
+chrome_options.add_argument("--disable-dev-shm-usage")
+# User-Agent pour éviter d'être bloqué
+chrome_options.add_argument(
+    "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
 
-def extraire_prix(soup):
-    try:
-        prix_div = soup.find('p', string='Prix').find_parent('div')
-        if prix_div:
-            prix_element = prix_div.find_all('p')[1]
-            if prix_element:
-                prix_text = prix_element.get_text().strip()
-                chiffres = re.findall(r'\d+', prix_text)
-                return int(''.join(chiffres)) if chiffres else 0
-        return 0
-    except:
-        return 0
+# Initialisation du WebDriver
+try:
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+except Exception as e:
+    print(f"Erreur lors de l'initialisation du WebDriver : {e}")
+    print("Veuillez vous assurer que Chrome est installé et que vous avez la dernière version de 'webdriver-manager'.")
+    exit()
 
+print("--- Démarrage du Scraping multi-niveau (60 pages) ---")
 
-def extraire_surface(soup):
-    try:
-        surface_div = soup.find('p', string='Surface').find_parent('div')
-        if surface_div:
-            surface_element = surface_div.find_all('p')[1]
-            if surface_element:
-                surface_text = surface_element.get_text().strip()
-                chiffres = re.findall(r'\d+', surface_text)
-                return int(chiffres[0]) if chiffres else 0
-        return 0
-    except:
-        return 0
+try:
+    for dept in departements:
+        print(f"\n=== Traitement du Département : {dept} ===")
 
+        for page in range(1, pages_to_scrape + 1):
+            # --- Niveau 1 : Charger la page de LISTE ---
+            list_url = f"{base_url}?typeBien=APP,MAI&typeTransaction=VENTE,VNI,VAE&departement={dept}&page={page}"
+            driver.get(list_url)
+            # Attente plus longue pour le chargement initial de la liste
+            time.sleep(random.uniform(3, 5))
 
-def extraire_pieces(soup):
-    try:
-        pieces_element = soup.find('p', string='Pièces')
-        if pieces_element:
-            parent_div = pieces_element.find_parent('div')
-            if parent_div:
-                valeur_element = parent_div.find_all('p')[1]
-                if valeur_element:
-                    return int(re.search(r'\d+', valeur_element.get_text()).group())
-        return 0
-    except:
-        return 0
+            soup_list = BeautifulSoup(driver.page_source, 'html.parser')
 
+            # Récupérer tous les liens d'annonces (Sélecteur robuste : href contenant "/annonce-immo/")
+            liens_annonces = []
+            candidates = soup_list.find_all('a', href=True)
+            for cand in candidates:
+                if "/annonce-immo/" in cand['href']:
+                    full_link = cand['href']
+                    if not full_link.startswith('http'):
+                        full_link = "https://www.immobilier.notaires.fr" + full_link
+                    if full_link not in liens_annonces:
+                        liens_annonces.append(full_link)
 
-def extraire_adresse_complete(soup):
-    """
-    Extrait l'adresse complète avec le bon sélecteur
-    """
-    try:
-        # Sélecteur exact basé sur votre capture
-        adresse_element = soup.find('p', class_='text-sm text-grey-400 md:text-base')
+            print(f"   -> Page {page}: {len(liens_annonces)} annonces détectées.")
 
-        if adresse_element:
-            adresse_text = adresse_element.get_text().strip()
-            return adresse_text
+            # --- Niveau 2 : Boucler sur chaque lien pour aller chercher le DETAIL ---
+            for link in liens_annonces:
+                try:
+                    driver.get(link)
+                    # Pause pour charger la page de détail dynamique
+                    time.sleep(random.uniform(2, 4))
 
-        return ''
+                    soup_detail = BeautifulSoup(driver.page_source, 'html.parser')
 
-    except Exception as e:
-        print(f"Erreur extraction adresse: {e}")
-        return ''
+                    # --- EXTRACTIONS SIMPLES ---
+                    titre_tag = soup_detail.find('h1')
+                    titre = titre_tag.get_text(strip=True) if titre_tag else "N/A"
 
+                    type_tag = soup_detail.find('span', class_='type_bien')
+                    type_de_bien = type_tag.get_text(strip=True) if type_tag else "N/A"
 
-def extraire_type_bien(soup):
-    try:
-        type_div = soup.find('p', string='Type de bien').find_parent('div')
-        if type_div:
-            type_element = type_div.find_all('p')[1]
-            if type_element:
-                type_text = type_element.get_text().strip().lower()
-                if 'appartement' in type_text:
-                    return 'appartement'
-                elif 'maison' in type_text:
-                    return 'maison'
-                elif 'studio' in type_text:
-                    return 'studio'
-                else:
-                    return type_text
-        return ''
-    except:
-        return ''
+                    loc_tag = soup_detail.find('span', class_='localisation')
+                    location = loc_tag.get_text(strip=True) if loc_tag else "N/A"
 
+                    # --- EXTRACTION DESCRIPTION ---
+                    desc_tag = soup_detail.find('inotr-description')
+                    description = desc_tag.find('p').get_text(separator="\n", strip=True) if desc_tag and desc_tag.find(
+                        'p') else "Pas de description"
 
-def scrape_locamoi(url):
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-    }
+                    # --- NOUVEAU: Extraction Surface et Pièces (par Label) ---
+                    surface = "N/A"
+                    nb_pieces = "N/A"
 
-    try:
-        response = requests.get(url, headers=headers, timeout=10)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.content, 'html.parser')
+                    # On cherche tous les labels de critères (points d'entrée stables)
+                    labels = soup_detail.find_all('div', class_='label_critere')
 
-        annonce = {}
+                    for label_tag in labels:
+                        label_text = label_tag.get_text(strip=True).lower()
+                        parent_tag = label_tag.find_parent('div', class_='critere_icone')
 
-        # Extraction des champs essentiels seulement
-        annonce['titre'] = extraire_titre(soup)
-        annonce['prix'] = extraire_prix(soup)
-        annonce['surface'] = extraire_surface(soup)
-        annonce['pieces'] = extraire_pieces(soup)
-        annonce['adresse'] = extraire_adresse_complete(soup)
-        annonce['type_bien'] = extraire_type_bien(soup)
+                        if parent_tag:
+                            valeur_tag = parent_tag.find('div', class_='Valeur')  # Classe 'Valeur' avec majuscule
 
-        return annonce
+                            if valeur_tag:
+                                valeur_text = valeur_tag.get_text(strip=True)
 
-    except Exception as e:
-        print(f"❌ Erreur sur {url}: {e}")
-        return None
+                                # Surface
+                                if "surface" in label_text or "carrez" in label_text:
+                                    surface_text = valeur_text.replace('m²', '').replace(',', '.')
+                                    try:
+                                        surface = float(surface_text)
+                                    except ValueError:
+                                        surface = surface_text
 
+                                # Nombre de Pièces
+                                elif "pièce" in label_text or "chambre" in label_text:
+                                    try:
+                                        nb_pieces = int(valeur_text)
+                                    except ValueError:
+                                        nb_pieces = valeur_text
 
-def extraire_urls_annonces_page(url_page):
-    """
-    Extrait toutes les URLs d'annonces d'une page de résultats
-    """
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-    }
+                    # --- EXTRACTION ET NETTOYAGE DU PRIX ---
+                    prix_tag = soup_detail.find('div', class_='valeur', **{'data-prix-prioritaire': True})
+                    if prix_tag:
+                        prix_text = prix_tag.get_text(strip=True)
+                        prix_nettoye = prix_text.replace('€', '').replace('\xa0', '').replace(' ', '')
+                        try:
+                            prix = int(prix_nettoye)  # Conversion en nombre entier
+                        except ValueError:
+                            prix = prix_nettoye  # Garde la chaîne si 'Prix sur demande'
+                    else:
+                        prix = "N/A"
 
-    try:
-        response = requests.get(url_page, headers=headers, timeout=10)
-        soup = BeautifulSoup(response.content, 'html.parser')
+                    # --- Sauvegarde des données ---
+                    all_data.append({
+                        'Departement': dept,
+                        'URL': link,
+                        'Titre': titre,
+                        'Type_Bien': type_de_bien,
+                        'Localisation': location,
+                        'Prix': prix,
+                        'Surface_m2': surface,
+                        'Nb_Pieces': nb_pieces,
+                        'Description': description
+                    })
 
-        urls_annonces = []
+                except Exception as e:
+                    continue
 
-        liens = soup.find_all('a', href=re.compile(r'/listings/'))
+except Exception as e:
+    print(f"Arrêt du scraping : {e}")
 
-        for lien in liens:
-            href = lien.get('href')
-            if href and '/listings/' in href:
-                url_complete = urljoin('https://www.locamoi.fr', href)
-                if url_complete not in urls_annonces:
-                    urls_annonces.append(url_complete)
-
-        return urls_annonces[:20]
-
-    except Exception as e:
-        print(f"❌ Erreur extraction URLs depuis {url_page}: {e}")
-        return []
-
-
-def generer_urls_recherche(villes, pages=4):
-    """
-    Génère les URLs de recherche pour chaque ville et chaque page
-    """
-    urls_recherche = []
-
-    for ville in villes:
-        for page in range(1, pages + 1):
-            url = f"https://locamoi.fr/location/{ville.lower()}?page={page}"
-            urls_recherche.append((ville, page, url))
-
-    return urls_recherche
-
-
-def collecter_annonces_multivilles(villes, pages_par_ville=4):
-    """
-    Collecte les annonces pour plusieurs villes sur plusieurs pages
-    """
-    toutes_annonces = []
-    urls_recherche = generer_urls_recherche(villes, pages_par_ville)
-
-    print(f"🎯 Début de la collecte sur {len(villes)} villes, {pages_par_ville} pages par ville")
-
-    for ville, page, url_recherche in urls_recherche:
-        print(f"\n🔍 Ville: {ville}, Page: {page}")
-
-        urls_annonces = extraire_urls_annonces_page(url_recherche)
-        print(f"   ✅ {len(urls_annonces)} annonces trouvées")
-
-        for i, url_annonce in enumerate(urls_annonces, 1):
-            print(f"      📝 Annonce {i}/{len(urls_annonces)}...")
-
-            annonce = scrape_locamoi(url_annonce)
-            if annonce:
-                toutes_annonces.append(annonce)
-                print(f"         📍 {annonce['adresse']} - {annonce['prix']}€ - {annonce['surface']}m²")
-
-            time.sleep(4)
-
-        time.sleep(6)
-
-    return pd.DataFrame(toutes_annonces)
-
-
-# CONFIGURATION
-VILLES = [
-    'Paris', 'Lyon', 'Marseille', 'Lille', 'Angers',
-    'Montpellier', 'Toulouse', 'Nice', 'Strasbourg', 'Bordeaux'
-]
-
-# LANCEMENT
-if __name__ == "__main__":
-    print("🚀 LANCEMENT DU SCRAPER LOCAMOI - VERSION FINALE")
-    print("=" * 50)
-
-    # TEST sur 1 ville, 1 page d'abord
-    VILLES_TEST = ['Paris']
-    PAGES_TEST = 1
-
-    debut = time.time()
-    df_annonces = collecter_annonces_multivilles(VILLES_TEST, PAGES_TEST)
-    fin = time.time()
-    duree = fin - debut
-
-    # Sauvegarde
-    if not df_annonces.empty:
-        nom_fichier = f"locamoi_annonces.csv"
-        df_annonces.to_csv(nom_fichier, index=False, encoding='utf-8')
-
-        print(f"\n🎉 COLLECTE TERMINÉE !")
-        print(f"📈 {len(df_annonces)} annonces collectées")
-        print(f"⏱️  Durée: {duree:.2f} secondes")
-        print(f"💾 Fichier sauvegardé: {nom_fichier}")
-
-        # Aperçu des données
-        print(f"\n📊 COLONNES FINALES:")
-        print(df_annonces.columns.tolist())
-        print(f"\n👀 APERÇU DES DONNÉES:")
-        print(df_annonces.head())
-
-    else:
-        print("❌ Aucune annonce collectée")
+finally:
+    # --- 3. Export et Fin ---
+    driver.quit()
+    df = pd.DataFrame(all_data)
+    df.to_csv('annonces_completes_notaires.csv', index=False, encoding='utf-8-sig')
+    print("\n--- PROCESSUS TERMINÉ ---")
+    print(f"Total des annonces récupérées : {len(df)}")
+    print("Fichier 'annonces_completes_notaires.csv' créé avec succès.")
