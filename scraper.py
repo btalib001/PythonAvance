@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 
 # --- 1. Configuration du Projet ---
 # Liste des départements à scraper
-departements = ['75', '13', '01', '69', '31', '06', '44', '34', '33', '59', '83', '42', '76', '21', '38']
+departements = ['75','01','13','69','31','06','44','34','33','59','83','42','76','21','38','35','51','49','30','29','74','62']
 pages_to_scrape = 5
 base_url = "https://www.immobilier.notaires.fr/fr/annonces-immobilieres-liste"
 
@@ -156,4 +156,5 @@ finally:
     df.to_csv('annonces_completes_notaires.csv', index=False, encoding='utf-8-sig')
     print("\n--- PROCESSUS TERMINÉ ---")
     print(f"Total des annonces récupérées : {len(df)}")
+
     print("Fichier 'annonces_completes_notaires.csv' créé avec succès.")
