@@ -36,7 +36,7 @@ def load_and_prepare_data(csv_path):
     return df
 
 
-FILE_NAME = "immo_gps.csv"
+FILE_NAME = "immo_gps2.csv"
 
 try:
     df = load_and_prepare_data(FILE_NAME)
@@ -45,11 +45,40 @@ except FileNotFoundError:
     st.stop()
 
 # --- 2. FILTRES ---
-st.sidebar.header("Filtres")
+st.sidebar.header("🔍 Filtres de recherche")
 
+# --- A. Filtre VILLE (Avec option "Tout sélectionner") ---
+villes_disponibles = sorted(df['Ville'].unique())
+
+# 1. Case à cocher pour "Tout sélectionner"
+tout_selectionner = st.sidebar.checkbox("✅ Sélectionner toutes les villes", value=True)
+
+# 2. Logique de sélection
+if tout_selectionner:
+    # Si coché, on prend tout et on désactive le menu pour éviter la confusion
+    villes_selectionnees = villes_disponibles
+    st.sidebar.multiselect(
+        "📍 Villes sélectionnées",
+        options=villes_disponibles,
+        default=villes_disponibles,
+        disabled=True # Le menu est visible mais grisé
+    )
+else:
+    # Si décoché, l'utilisateur choisit manuellement
+    villes_selectionnees = st.sidebar.multiselect(
+        "📍 Choisir les villes",
+        options=villes_disponibles,
+        default=[]
+    )
+
+#filtre département
+
+
+#filtre prix
 min_price, max_price = int(df['Prix'].min()), int(df['Prix'].max())
 prix_range = st.sidebar.slider("Budget (€)", min_price, max_price, (min_price, max_price))
 
+#filtre surface
 min_surf, max_surf = int(df['Surface_m2'].min()), int(df['Surface_m2'].max())
 surf_range = st.sidebar.slider(
     "📏 Surface (m²)",
@@ -57,11 +86,13 @@ surf_range = st.sidebar.slider(
     (min_surf, max_surf)
 )
 
+
 df_filtered = df[
     (df['Prix'] >= prix_range[0]) &
     (df['Prix'] <= prix_range[1])&
     (df['Surface_m2'] >= surf_range[0]) &
-    (df['Surface_m2'] <= surf_range[1])
+    (df['Surface_m2'] <= surf_range[1])&
+    (df['Ville'].isin(villes_selectionnees))
 ]
 
 # Affichage des stats
