@@ -1,7 +1,7 @@
 import pandas as pd
 from geopy.geocoders import Nominatim
 import time
-
+import re
 
 def enrichir_csv_avec_gps(input_file, output_file):
     """
@@ -32,6 +32,31 @@ def enrichir_csv_avec_gps(input_file, output_file):
         try:
             # On ajoute ", France" pour la précision
             query = f"{ville}, France"
+
+
+            # On analyse le nom de la ville pour voir si c'est du type "Paris 12"
+            # Regex : cherche paris/lyon/marseille suivi d'un espace et de chiffres
+            match = re.search(r"(paris|lyon|marseille)\s*0*(\d+)", str(ville).lower().strip())
+
+            if match:
+                nom_ville = match.group(1)
+                arrondissement = int(match.group(2))  # Convertit "08" en 8
+
+                base_cp = 0
+                if nom_ville == 'paris':
+                    base_cp = 75000
+                elif nom_ville == 'lyon':
+                    base_cp = 69000
+                elif nom_ville == 'marseille':
+                    base_cp = 13000
+
+                # Si on a identifié une ville PLM, on remplace la query par le code postal
+                if base_cp > 0:
+                    query = f"{base_cp + arrondissement}, France"
+                    # petit print pour vérifier que ça marche
+                    print(f"Transformation : {ville} -> {query}")
+
+            # Appel à l'API avec la query (soit "Grenoble, France", soit "75012, France")
             location = geolocator.geocode(query, timeout=10)
 
             if location:
@@ -77,4 +102,4 @@ def enrichir_csv_avec_gps(input_file, output_file):
 
 # --- UTILISATION ---
 # Remplace par le nom de tes fichiers
-enrichir_csv_avec_gps("immo_final.csv", "immo_gps.csv")
+enrichir_csv_avec_gps("immo_final.csv", "immo_gps2.csv")
