@@ -21,7 +21,12 @@ def load_and_prepare_data(csv_path):
     # Nettoyage
     df = df.dropna(subset=['latitude', 'longitude'])
 
-    # --- LA CORRECTION EST ICI ---
+    # On s'assure que la colonne Département est bien traitée comme du texte
+    # (Pour éviter que le département '06' ne devienne le chiffre 6)
+
+    df["Departement"] = df["Departement"].astype(str)
+    df["Departement"] = df["Departement"].str.zfill(2)
+
     # On calcule le décalage (jitter) UNE SEULE FOIS ici.
     # Le résultat est mis en cache, donc les points ne bougeront plus
     # tant qu'on ne vide pas le cache manuellement.
@@ -47,31 +52,25 @@ except FileNotFoundError:
 # --- 2. FILTRES ---
 st.sidebar.header("🔍 Filtres de recherche")
 
-# --- A. Filtre VILLE (Avec option "Tout sélectionner") ---
-villes_disponibles = sorted(df['Ville'].unique())
+# A. Filtre DÉPARTEMENT (Directement depuis le CSV)
+depts_dispos = sorted(df['Departement'].unique())
+tout_dept = st.sidebar.checkbox("✅ Tous les départements", value=True)
 
-# 1. Case à cocher pour "Tout sélectionner"
-tout_selectionner = st.sidebar.checkbox("✅ Sélectionner toutes les villes", value=True)
-
-# 2. Logique de sélection
-if tout_selectionner:
-    # Si coché, on prend tout et on désactive le menu pour éviter la confusion
-    villes_selectionnees = villes_disponibles
-    st.sidebar.multiselect(
-        "📍 Villes sélectionnées",
-        options=villes_disponibles,
-        default=villes_disponibles,
-        disabled=True # Le menu est visible mais grisé
-    )
+if tout_dept:
+    dept_selectionnes = depts_dispos
+    st.sidebar.multiselect("📍 Départements", depts_dispos, default=depts_dispos, disabled=True)
 else:
-    # Si décoché, l'utilisateur choisit manuellement
-    villes_selectionnees = st.sidebar.multiselect(
-        "📍 Choisir les villes",
-        options=villes_disponibles,
-        default=[]
-    )
+    dept_selectionnes = st.sidebar.multiselect("📍 Départements", depts_dispos, default=[])
 
-#filtre département
+# B. Filtre VILLE
+#villes_dispos = sorted(df['Ville'].unique())
+#tout_ville = st.sidebar.checkbox("✅ Toutes les villes", value=True)
+
+#if tout_ville:
+    #villes_selectionnees = villes_dispos
+    #st.sidebar.multiselect("🏙️ Villes", villes_dispos, default=villes_dispos, disabled=True)
+#else:
+    #villes_selectionnees = st.sidebar.multiselect("🏙️ Villes", villes_dispos, default=[])
 
 
 #filtre prix
@@ -88,11 +87,12 @@ surf_range = st.sidebar.slider(
 
 
 df_filtered = df[
+    (df['Departement'].isin(dept_selectionnes)) &
+    #(df['Ville'].isin(villes_selectionnees)) &
     (df['Prix'] >= prix_range[0]) &
-    (df['Prix'] <= prix_range[1])&
+    (df['Prix'] <= prix_range[1]) &
     (df['Surface_m2'] >= surf_range[0]) &
-    (df['Surface_m2'] <= surf_range[1])&
-    (df['Ville'].isin(villes_selectionnees))
+    (df['Surface_m2'] <= surf_range[1])
 ]
 
 # Affichage des stats
