@@ -102,4 +102,5 @@ def enrichir_csv_avec_gps(input_file, output_file):
 
 # --- UTILISATION ---
 # Remplace par le nom de tes fichiers
-enrichir_csv_avec_gps("immo_final.csv", "immo_gps2.csv")
+
+enrichir_csv_avec_gps("immo_final.csv", "immo_gps.csv")
