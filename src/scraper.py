@@ -1,11 +1,13 @@
 import time
 import random
 import pandas as pd
+import re
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
+
 
 # --- 1. Configuration du Projet ---
 # Liste des départements à scraper
@@ -153,8 +155,8 @@ finally:
     # --- 3. Export et Fin ---
     driver.quit()
     df = pd.DataFrame(all_data)
-    df.to_csv('annonces_completes_notaires.csv', index=False, encoding='utf-8-sig')
+    df.to_csv('annonces_raw.csv', index=False, encoding='utf-8-sig')
     print("\n--- PROCESSUS TERMINÉ ---")
     print(f"Total des annonces récupérées : {len(df)}")
 
-    print("Fichier 'annonces_completes_notaires.csv' créé avec succès.")
+    print("Fichier 'annonces_raw.csv' créé avec succès.")
