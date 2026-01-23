@@ -6,17 +6,13 @@ Ce projet consiste à automatiser la collecte et l'analyse de données immobili�
 
 ## 🚀 Objectifs
 
-* 
-**Collecte automatisée** : Extraction des données (prix, surface, type de bien, localisation).
+* **Collecte automatisée** : Extraction des données (prix, surface, type de bien, localisation).
 
-* 
-**Traitement de données** : Nettoyage et structuration avec Python.
+* **Traitement de données** : Nettoyage et structuration avec Python.
 
-* 
-**Analyse Statistique** : Calcul des moyennes, médianes et corrélations entre surface et prix.
+* **Analyse Statistique** : Calcul des moyennes, médianes et corrélations entre surface et prix.
 
-* 
-**Visualisation** : Création d'un tableau de bord interactif pour explorer les données.
+* **Visualisation** : Création d'un tableau de bord interactif pour explorer les données.
 
 
 
@@ -42,23 +38,17 @@ Ce projet consiste à automatiser la collecte et l'analyse de données immobili�
 
 ## 🏗️ Architecture du Repo
 
-* 
-`src/scraper.py` : Script de récupération des données.
+* `src/scraper.py` : Script de récupération des données.
 
-* 
-`src/clean_data.py` : Nettoyage, suppression des doublons et normalisation.
+* `src/clean_data.py` : Nettoyage, suppression des doublons et normalisation.
 
-* 
-`src/analysis.py` : Calculs statistiques et génération de graphiques.
+* `src/analysis.py` : Calculs statistiques et génération de graphiques.
 
-* 
-`src/dashboard.py` : Interface utilisateur Streamlit.
+* `src/dashboard.py` : Interface utilisateur Streamlit.
 
-* 
-`notebooks/exploration.ipynb` : Analyse exploratoire (EDA).
+* `notebooks/exploration.ipynb` : Analyse exploratoire (EDA).
 
-* 
-`data/` : Dossier contenant les fichiers CSV (données brutes et nettoyées).
+* `data/` : Dossier contenant les fichiers CSV (données brutes et nettoyées).
 
 
 
@@ -66,8 +56,7 @@ Ce projet consiste à automatiser la collecte et l'analyse de données immobili�
 
 L'application **Streamlit** permet de :
 
-1. 
-**Filtrer** les biens par ville, prix ou surface.
+1. **Filtrer** les biens par ville, prix ou surface.
 
 
 2. Visualiser la **répartition des prix** via des histogrammes et boxplots.
@@ -83,5 +72,3 @@ L'application **Streamlit** permet de :
 * Mise en place d'un **scheduling automatique** (cron) pour actualiser les prix chaque semaine.
 
 * Développement d'un module de **Machine Learning** (régression linéaire) pour prédire le prix d'un bien.
-
-Souhaites-tu que je t'aide à rédiger la section **"Résultats et Analyses"** avec des exemples de conclusions statistiques, ou veux-tu que l'on peaufine le **script de nettoyage**  pour gérer les données manquantes ?
