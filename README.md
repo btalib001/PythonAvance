@@ -20,7 +20,7 @@ Ce projet consiste à automatiser la collecte et l'analyse de données immobili�
 
 | Étape | Outils / Librairies |
 | --- | --- |
-| **Scraping** | <br>`requests`, `BeautifulSoup`, `re` (regex) 
+| **Scraping** | <br>`requests`, `Selenium`, `BeautifulSoup`, `re` (regex) 
 
  |
 | **Data Manipulation** | <br>`pandas`, `numpy` 
