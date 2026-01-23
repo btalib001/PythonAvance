@@ -34,7 +34,7 @@ Ce projet consiste à automatiser la collecte et l'analyse de données immobili�
  |
 | **Dashboard** | <br>`Streamlit` 
 
- |
+ 
 
 ## 🏗️ Architecture du Repo
 
